@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.525
 'Hochwasser',de,Winter,#4287f5,#022f78,1,0.524
+'Blüte',de,Frühling,#679e2c,#61b00c,1,0.5071
 'Winter',de,Winter,#4287f5,#315fa8,3,0.5
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.5
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.5
@@ -14,4 +15,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.5
 'Laubfall',de,Herbst,#9e3215,#802d16,3,0.5
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.5
-'Blüte',de,Frühling,#679e2c,#61b00c,1,0.498
