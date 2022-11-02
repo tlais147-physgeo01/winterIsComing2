@@ -1,6 +1,7 @@
 import mysecrets
 import os
 import sys
+import math
 
 #pip3 install newsapi-python
 import pandas as pd
@@ -266,7 +267,7 @@ def filterNewAndArchive(articles, language, keyWord):
             return newArticles        
     return newArticles
 
-def getNewsFiles(state='harvest'):
+def getNewsFiles2(state='harvest'):
     fileName = './csv/news_????_??.csv'
     if(state):
         fileName = './csv/news_'+state+'_????_??.csv'
@@ -276,7 +277,7 @@ def getNewsFiles(state='harvest'):
 def getLatestFileAge():
     minAge = 1E6
     now = time.time()
-    for fileName in getNewsFiles(state=None):
+    for fileName in getNewsFiles2(state=None):
         print([os.path.getatime(fileName),os.path.getctime(fileName),os.path.getmtime(fileName)])
         modifyDate = os.path.getmtime(fileName)
         fileAge = now-modifyDate
