@@ -13,5 +13,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.4987499999999999
 'Dürre',de,Sommer,#a89216,#bfba22,1,0.4982499999999999
 'Frühling',de,Frühling,#679e2c,#679e2c,2,0.475
-'Spätfrost',de,Frühling,#679e2c,#477515,2,0.475
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.45125
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.4072531249999999
