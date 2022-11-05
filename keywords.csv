@@ -12,6 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.50125
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.4987499999999999
 'Dürre',de,Sommer,#a89216,#bfba22,1,0.4982499999999999
-'Frühling',de,Frühling,#679e2c,#679e2c,2,0.475
+'Frühling',de,Frühling,#679e2c,#679e2c,1,0.47525
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.45125
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.4072531249999999
