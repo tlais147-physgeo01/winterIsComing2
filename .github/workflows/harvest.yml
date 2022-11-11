@@ -3,11 +3,11 @@
 name: harvest:0.0
 
 on:
-  push:
-    branches:
-      - 'main'
+###REMOVE#BEFORE#FLIGHT###  push:
+###REMOVE#BEFORE#FLIGHT###    branches:
+###REMOVE#BEFORE#FLIGHT###      - 'main'
   workflow_dispatch:
-  schedule:
+###REMOVE#BEFORE#FLIGHT###  schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    daily,every 6 hours #m h d/m m d/w 
 ###REMOVE#BEFORE#FLIGHT###    - cron:  '00 */6 * * *'
