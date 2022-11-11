@@ -3,17 +3,8 @@
 name: harvest:0.0
 
 on:
-  push:
-    branches:
-      - 'main'
   workflow_dispatch:
-  schedule:
-    # * is a special character in YAML so you have to quote this string : 
-#    daily,every 6 hours #m h d/m m d/w 
-###REMOVE#BEFORE#FLIGHT###    - cron:  '00 */6 * * *'
-#    every 2 hour
-#    - cron:  '20 */2 * * *'
-   
+  
 jobs:
   docker-run-action:
     runs-on: ubuntu-latest
@@ -31,21 +22,15 @@ jobs:
           chown -R $(id -u):$(id -g) $PWD
 #        with:
 #          ref: master
-      - name: install aiohttp
-        run: (pip3 install aiohttp)
-      - name: install asyncio
-        run: (pip3 install asyncio)
-      - name: cd /cre/python/
-        run: (cd /cre/python/)
-      - name: cp mysecrets.py
-        run: (cp mysecrets.orig.py mysecrets.py)
-      - name: Run newsapi
-        env:
-            NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-        run: (python3 newsapi.py)
+      - name: remove existing news*.csv
+        run: (rm -f csv/news_????_??.csv)
+      - name: initialize regular harvest
+        run: (sed -i 's/###REMOVE#BEFORE#FLIGHT###//' .github/workflows/harvest.yml)
+      - name: remove init action itself
+        run: (rm -f .github/workflows/init.yml)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'csv/*.csv keywords.csv'
+          add: 'csv/news_????_??.csv .github/workflows/*.yml'
           tag_push: '--force'
