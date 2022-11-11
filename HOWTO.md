@@ -40,7 +40,7 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 
 * Choose your new organisation as owner
 
-![owner of fork](images/gh_destination_fork.png)
+![owner of fork](images/gh_destinaton_fork.png)
 
 * Press the green button
 
