@@ -1,11 +1,16 @@
 ## How to setup your own harvester
 
+The harvester works best with about 20 search-terms (called keyword here) organized below 4-6 topics.
+
 ### 1) Register at [newsapi.org](https://newsapi.org/)
 
 * Register at [newsapi.org]([https://newsapi.org](https://newsapi.org/register) with email & password
+
+![newsapi register](images/newsapi_register.png)
+
 * Make sure to choose the free developer version - see [pricing](https://newsapi.org/pricing); well simply don"t enter credit card infos
  
-![newsapi register](images/newsapi_register.png) [newsapi api](images/newsapi_api.png)
+![newsapi api](images/newsapi_api.png)
 
 * Verify your email
 * Get your API key from your [account](https://newsapi.org/account) and copy it. Should look something like '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'.
@@ -24,7 +29,8 @@
 ![image of organisations](images/gh_organisation.png)
 
 * Create a new organization with unique name - i.e. choose your username and append '_news', like 'kmicha_news'
-  ![image of organizations](images/gh_new_org.png)
+
+![image of organizations](images/gh_new_org.png)
 
 ### 4) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
 
@@ -42,10 +48,37 @@
 
 * Goto the settings page and select the 'Collaborators and Teams'
  
-![add people](gh_add_team.png) [add kmicha]((gh_add_kmicha.png)
+![add people](images/gh_add_team.png) 
 
 * Add me (KMicha) with write access
 
-
+![add kmicha](images/gh_add_kmicha.png)
   
+### 6) Adapt the keywords and topics
+
+The harvester works best with about 20 search-terms (called keyword here) organized below 4-6 topics.
+
+* Goto  to your code page and select the keywords.csv file
+
+![edit keywords.csv](images/gh_keywords.png)
+
+-* Edit the keywords file
+  * Make sure to keep the first (header-)line unchanged
+  * keyword: Your searchterm with single quotes. Can combine severall words, like 'this that'. Keywords should be unique.
+  * language: Choose your language (must be supported by newsapi). i.e. de or en
+  * topic: Severall keywords are combined into a common topic. No quotes. No spaces.
+  * topicColor: The hexcode of the topic. Same topics, same color codes!
+  * keywordColors: Ech keyword can have a seperate color hexcode. Might be similiar to it"s realted topic color.
+  * limitPages: Will be dynamically adapted. Set to 1 initially
+  * ratioNew: will also be adapted. 1 is also fine.
+  
+![edit keywords.csv](images/gh_keywords_edit.png)
+  
+Attention: You can adapt the keywords later, but for now you should not remove any, once you've started harvesting!
+
+ * Submit the changed file. Description can be empty. Commit directly to main branch. Press the green button. 
+
+![edit keywords.csv](images/gh_keywords_commit.png)
+
+### 7.) Add the newsapi API-key to your organization
 
