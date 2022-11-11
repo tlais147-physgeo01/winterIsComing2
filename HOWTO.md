@@ -4,6 +4,9 @@
 
 * Register at [newsapi.org]([https://newsapi.org](https://newsapi.org/register) with email & password
 * Make sure to choose the free developer version - see [pricing](https://newsapi.org/pricing); well simply don"t enter credit card infos
+ 
+![newsapi register](images/newsapi_register.png) [newsapi api](images/newsapi_api.png)
+
 * Verify your email
 * Get your API key from your [account](https://newsapi.org/account) and copy it. Should look something like '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'.
 
@@ -31,7 +34,7 @@
 
 * Choose your new organisation as owner
 
-![owner of fork](images/gh_owner_fork.png)
+![owner of fork](images/gh_destination_fork.png)
 
 * Press the green button   
   
