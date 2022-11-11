@@ -40,7 +40,7 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 
 * Choose your new organisation as owner
 
-![owner of fork](images/gh_destination_fork.png)
+![owner of fork](images/gh_destinaton_fork.png)
 
 * Press the green button
 
@@ -71,6 +71,8 @@ The harvester works best with about 20 search-terms (called keyword here) organi
   * keywordColors: Ech keyword can have a seperate color hexcode. Might be similiar to it"s realted topic color.
   * limitPages: Will be dynamically adapted. Set to 1 initially
   * ratioNew: will also be adapted. 1 is also fine.
+
+Colorpickers can be googled. Or use one of these: [redketchup](https://redketchup.io/color-picker), [w3schools](https://www.w3schools.com/colors/colors_picker.asp)
   
 ![edit keywords.csv](images/gh_keywords_edit.png)
   
@@ -80,5 +82,7 @@ Attention: You can adapt the keywords later, but for now you should not remove a
 
 ![edit keywords.csv](images/gh_keywords_commit.png)
 
-### 7.) Add the newsapi API-key to your organization
+### 7. Remove existing news_20yy_mm.csv files
+
+### 8.) Add the newsapi API-key to your organization
 
