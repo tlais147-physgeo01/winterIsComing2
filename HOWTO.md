@@ -25,5 +25,8 @@
 
 * Goto [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing), select 'fork' and 'Create a new fork'
   ![image of fork](images/gh_create_fork.png)
+* Choose your new organisation as owner
+  ![owner of fork](images/gh_owner_fork.png)
+* Press the green button   
   
 
