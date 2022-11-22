@@ -32,7 +32,9 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
-      - name: Run diagrams
+      - name: Install HanTa textblob_de
+        run: (pip3 install HanTa textblob_de)
+      - name: Run bayes
         run: (python3 bayes.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9

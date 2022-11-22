@@ -32,7 +32,11 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
-      - name: Run diagrams
+      - name: Install spacy textblob_de
+        run: (pip3 install spacy textblob_de)
+      - name: Install download de_core_news_md
+        run: (python3 -m spacy download de_core_news_md)
+      - name: Run entities
         run: (python3 entities.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
