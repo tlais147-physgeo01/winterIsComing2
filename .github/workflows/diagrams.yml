@@ -11,7 +11,9 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    weekly #m h d/m m d/w 
-    - cron:  '30 1 * * 1'
+#    - cron:  '30 1 * * 1'
+#    daily #m h d/m m d/w 
+    - cron:  '30 1 * * *'
    
 jobs:
   docker-run-action:
@@ -36,5 +38,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'img/*.png'
+          add: 'img/*.png csv/topics_date.csv'
           tag_push: '--force'
