@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude,de,Politik,#a89216,#00e622,1,1.0
 'Kohle',de,Fossile Energie,#4287f5,#e41818,1,1.0
 'Gasspeicher',de,Politik,#a89216,#48e818,1,1.0
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,1,1.0
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,1,1.0
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,1,1.0
 'Kinder',de,Gesundheit,#9e3215,#4848e9,1,1.0
@@ -18,3 +17,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,1,1.0
 'Atomkraft',de,Politik,#a89216,#04d624,1,1.0
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.8913214813636363
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.8913148813636363
