@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,1,1.0
-'COP 26',de,Politik,#a89216,#18e818,1,1.0
 'Kälte',de,Gesundheit,#9e3215,#1818e8,1,1.0
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,1,1.0
 'Kohle',de,Fossile Energie,#4287f5,#e41818,1,1.0
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,2,0.914044974090909
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.8913214813636363
 'öffentliche Gebäude,de,Politik,#a89216,#00e622,2,0.864043609090909
+'COP 26',de,Politik,#a89216,#18e818,1,0.851650165
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.850150015
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.740753903590909
