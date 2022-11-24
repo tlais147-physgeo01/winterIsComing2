@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.8913214813636363
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.8913153163636364
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.864063049090909
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,1,1
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.8539424672727272
 'COP 26',de,Politik,#a89216,#18e818,1,0.851650165
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.850150015
