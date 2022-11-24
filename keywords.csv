@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,2,0.914044974090909
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.8913214813636363
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.8913153163636364
+'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.864063049090909
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.8539424672727272
 'COP 26',de,Politik,#a89216,#18e818,1,0.851650165
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.850150015
@@ -18,4 +19,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.7393897977272726
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,2,0.5489031443898862
-'Ältere',de,Gesundheit,#9e3215,#4646e5,1,1
