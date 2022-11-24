@@ -28,7 +28,7 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 
 ![image of organisations](images/gh_organisation.png)
 
-* Create a new organization with unique name - i.e. choose your username and append '_news', like 'kmicha_news'
+* Create a new organization with unique name - i.e. choose your username and append '-news', like 'kmicha-news'
 
 ![image of organizations](images/gh_new_org.png)
 
@@ -84,5 +84,25 @@ Attention: You can adapt the keywords later, but for now you should not remove a
 
 ### 7. Remove existing news_20yy_mm.csv files
 
+Inside your repository, goto code, then inside csv folder, select news_2022_mm.csv file (one after the other) and delete it.
+After each deletion,a commit must be done. 
+
+![goto csv](images/gh_csv_folder.png)
+
+![select csv](images/gh_select_news_csv.png)
+
+![delete csv](images/gh_delete_news_csv.png)
+
+![submit csv](images/gh_submit_delete.png)
+
+
 ### 8.) Add the newsapi API-key to your organization
 
+Switch to your organization (the one ending with "-news") and goto the settings tab.
+Scroll down  untill you find the Security section at the left side panel; there open the Secrets-Range and click on Actions.
+
+![new secret](images/gh_secrets_new.png)
+
+Press the "New organization secret" button and add the newsapi-key inside the Value field. For the name use "NEWSAPI_KEY".
+
+![add secret](images/gh_secrets_add.png)
