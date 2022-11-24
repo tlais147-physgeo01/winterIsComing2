@@ -16,5 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.850150015
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.8025793026590909
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
-'öffentliche Gebäude,de,Politik,#a89216,#00e622,3,0.7393897977272726
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,4,0.5489031443898862
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.7393897977272726
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,2,0.5489031443898862
+'Ältere',de,Gesundheit,#9e3215,#4646e5,1,1
