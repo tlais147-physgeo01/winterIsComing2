@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,1,1.0
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.9867776018181816
 'Kinder',de,Gesundheit,#9e3215,#4848e9,2,0.9186998536363636
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.9140463540909092
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,2,0.9095055195454546
 'Energiepauschale',de,Politik,#a89216,#18e218,4,0.8946140434545454
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.8913214813636363
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,2,0.8822270622727273
 'Gas',de,Fossile Energie,#4287f5,#e81818,4,0.864962856681818
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.864063049090909
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.8640417040909091
