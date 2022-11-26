@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.8325858111590909
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.8291834612499999
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.8025793026590909
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.800076694159091
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.7989333202727272
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.7898542214318182
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.7730292011136364
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.7441115741261365
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.7394261967272726
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.7227775277499999
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.6334341030681817
