@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.7898542214318182
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.7730292011136364
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.7441115741261365
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.7394261967272726
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6829047234617615
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.6334341030681817
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.6145109135874999
 'COP 26',de,Politik,#a89216,#18e818,1,0.527650620630625
