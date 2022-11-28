@@ -300,31 +300,51 @@ def extractData(article, language, keyWord):
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord}
     return data  
 
+def checkKeywordInQuote(keyword, quote, case=True):
+    keywords = keyword.strip("'").split(" ")
+    if(not case):
+        keywords = keyword.strip("'").lower().split(" ")
+        quote = quote.lower()
+    allFound = True
+    for keyw in keywords:
+        allFound = allFound and (keyw in quote)    
+    return allFound
+
 def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
     keywordsLangDF = keywordsDF[keywordsDF['language']==language]
     foundArticles = []
     for article in articles:
       data = extractData(article, language, keyWord)
       searchQuote = str(data['title']) + " " + str(data['description'])
+      fullQuote = str(data['content'])
       foundKeywords = []
       found = False
       for index2, column2 in keywordsLangDF.iterrows(): 
          keyword = column2['keyword']
-         allFound = True
-         keywords = keyword.strip("'").split(" ")
-         for keyw in keywords:
-            allFound = allFound and (keyw in searchQuote)
+         if(keyword.strip("'") in searchQuote):
+             foundKeywords.append(keyword) 
+             found = True
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=True)
+         if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=False)
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
       # add seldom keywords twice if
-      for index2, column2 in seldomDF.iterrows(): 
+      keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
+      for index2, column2 in keywordsSeldomLangDF.iterrows(): 
          keyword = column2['keyword']
-         allFound = True
-         keywords = keyword.strip("'").split(" ")
-         for keyw in keywords:
-            allFound = allFound and (keyw in searchQuote)
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=True) 
          if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
+           if(allFound):
              foundKeywords.append(keyword) 
              found = True
       if(found):
@@ -468,7 +488,7 @@ def inqRandomNews():
                 if(currRatio>0.5):
                     deltaLimit += 1
                     #newLimit = max(currPage+2,limitPages)
-                newLimit =  max(currPage+deltaLimit,limitPages)
+                newLimit =  min(3,max(currPage+deltaLimit,limitPages))
                 print(['currRatio',currRatio,'currPage: ',currPage,' limitPages: ',limitPages,' deltaLimit: ',deltaLimit,' new Limit: ', newLimit])  
 
                 for data in newArticles:
@@ -487,7 +507,7 @@ def inqRandomNews():
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
                 deltaLimit = -1
-                newLimit =  min(1,currPage+deltaLimit)
+                newLimit =  max(1,currPage+deltaLimit)
               # {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 150. Please upgrade to a paid plan if you need more results."}
     #print(rndKey.index)
     #keywordsDF.at[rndKey.index, 'limitPages'] = newLimit    
