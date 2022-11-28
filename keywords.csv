@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.7730292011136364
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.7394261967272726
-'Sanierung',de,Politik,#a89216,#08ea48,4,0.6909444128234089
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6829047234617615
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.6334341030681817
+'Sanierung',de,Politik,#a89216,#08ea48,4,0.6104437340817158
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.5224842915493749
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.4096092981853291
 'COP 26',de,Politik,#a89216,#18e818,1,0.3847079214056265
