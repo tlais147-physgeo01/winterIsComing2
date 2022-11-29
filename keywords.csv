@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.9268692265
 'Atomkraft',de,Politik,#a89216,#04d624,2,0.914044974090909
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.8946140434545454
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.864962856681818
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.8291834612499999
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.8025793026590909
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.7989333202727272
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.7762621226363635
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.7730292011136364
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.762960500906818
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.7394261967272726
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.7393865434772727
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6829047234617615
