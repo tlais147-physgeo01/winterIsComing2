@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.762960500906818
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.7394261967272726
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.7393865434772727
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6829047234617615
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.6339060859942613
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.6334295969556819
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.6104437340817158
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.547916677153409
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.5224842915493749
