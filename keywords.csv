@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.7769590687795453
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.7762621226363635
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.7730292011136364
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.77165980325
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.762960500906818
 'COP26',de,Politik,#a89216,#18e818,3,0.7491595235
 'Ältere',de,Gesundheit,#9e3215,#4646e5,2,0.7394261967272726
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.7113177145045455
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.7007860158965908
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6829047234617615
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.6699531218534092
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.6339060859942613
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.6334295969556819
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.547916677153409
