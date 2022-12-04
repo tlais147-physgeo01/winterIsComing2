@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.9268692265
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.7898542214318182
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.7762621226363635
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.7329710934397726
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.7324965647897727
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.7113177145045455
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.7074829964011363
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.7007860158965908
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.6990609059443181
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.6971213858545453
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6829047234617615
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.6699531218534092
