@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.8229028480098866
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.6699531218534092
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.632366216573227
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.6309772118708522
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.6212694771613524
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.6205477536270937
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.6151955318145157
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.6115182097387953
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.6051707230575568
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.602073592521818
