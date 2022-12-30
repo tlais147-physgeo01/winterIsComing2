@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.4864563099685337
 'Blackout',de,Politik,#a89216,#88e888,3,0.4859564309299434
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.4832239874772666
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.4817726069729137
@@ -12,9 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.4385150220733704
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.4371343210004612
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.4227406478162662
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.4145389584732536
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.4064976286499397
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.3987972809660494
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.37996164708110086
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.3799616470811008
 'COP26',de,Politik,#a89216,#18e818,1,0.3481469061737545
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.3042204772602104
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.2487197699816157
