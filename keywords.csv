@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.4174441747040124
-'Blackout',de,Politik,#a89216,#88e888,2,0.3950409508696113
+'Blackout',de,Politik,#a89216,#88e888,2,0.3907385582391696
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.3870997040753854
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.3868032928532739
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.3770963557594081
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.3750067461710665
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.36518694434684107
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.365186944346841
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.3618546942477201
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.3602700712494971
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.3566580485949709
