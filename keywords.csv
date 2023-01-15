@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.3290166310898373
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.3256651772626477
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.3165114406473256
-'COP26',de,Politik,#a89216,#18e818,1,0.2969749752476913
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.2907380396872645
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.2901955732479706
+'COP26',de,Politik,#a89216,#18e818,1,0.2554290289605376
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.2144328289917448
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.14772929261577414
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1477292926157741
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.1399936209218937
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.075473739159205
 'COP 26',de,Politik,#a89216,#18e818,1,0.0167712793136241
