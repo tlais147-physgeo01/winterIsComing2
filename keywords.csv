@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.3216661518877445
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.3082736885760438
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.3069210804210977
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.3066941738877651
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2997015974150263
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.2901955732479706
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2892924200204624
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2876252581865904
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2780979267086266
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.2747343918955094
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2606177047253302
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.1802028121979412
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.1272260077462582
