@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.2922924914040033
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2892924200204624
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2876252581865904
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.273644045337698
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.27845742944613416
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2715660871538566
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2606177047253302
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2560045957060736
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1125580655060712
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0740847253591484
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0148588474403353
-'COP 26',de,Politik,#a89216,#18e818,1,0.011330320157207403
+'COP 26',de,Politik,#a89216,#18e818,1,0.0113303201572074
