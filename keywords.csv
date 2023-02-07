@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.29683691751872
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2892309890035552
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.28892931159682
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2888226883621235
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2876252581865904
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2858259028859207
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2840179465397512
 'Blackout',de,Politik,#a89216,#88e888,3,0.2790661854888954
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.2784574294461341
