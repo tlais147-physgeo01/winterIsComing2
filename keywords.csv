@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.28892931159682
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2888226883621235
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2873972128473392
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.2840179465397512
 'Blackout',de,Politik,#a89216,#88e888,3,0.283067748574652
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.2784574294461341
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.26000494819515213
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2560045957060736
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.2528000426934028
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2265017190165306
