@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.3248428694665479
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.3014136347477846
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2842895660937246
-'Blackout',de,Politik,#a89216,#88e888,3,0.2641326435497314
+'Blackout',de,Politik,#a89216,#88e888,3,0.26582851338090807
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.257459538424157
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2568904310234566
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.255552290029214
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0796448345288996
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.072636551941952
 'COP26',de,Politik,#a89216,#18e818,1,0.0475502051858275
-'COP 26',de,Politik,#a89216,#18e818,1,0.009465315482813081
+'COP 26',de,Politik,#a89216,#18e818,1,0.009465315482813
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.004048895140492
