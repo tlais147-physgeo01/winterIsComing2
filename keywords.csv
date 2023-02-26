@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.2528000426934028
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2484803926062981
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2452876440774352
-'Blackout',de,Politik,#a89216,#88e888,3,0.23545171591922634
+'Blackout',de,Politik,#a89216,#88e888,3,0.2354517159192263
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.229774608236748
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2237826172634233
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.2157290880513938
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2143920803978707
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2065939802549601
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0928763277777795
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.08389727861111257
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0796448345288996
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0664291871065803
 'COP26',de,Politik,#a89216,#18e818,1,0.0475502051858275
