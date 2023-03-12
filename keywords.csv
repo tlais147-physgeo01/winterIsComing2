@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.26256260127168674
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2540405586250897
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.2486755824141653
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2432080249141287
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2416394231198609
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2394389937049665
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2388942314426261
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2382277624970291
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2341046545931768
 'Blackout',de,Politik,#a89216,#88e888,3,0.2323585458040696
