@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.26256260127168674
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2625626012716867
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2540405586250897
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.2486755824141653
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2451738346739098
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2432080249141287
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2416394231198609
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2394389937049665
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2382277624970291
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2341046545931768
 'Blackout',de,Politik,#a89216,#88e888,3,0.2323585458040696
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2237826172634233
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2128655396039983
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2123944550348979
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2120384726484181
