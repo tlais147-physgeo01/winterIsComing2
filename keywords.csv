@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2540405586250897
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.2486755824141653
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.24798325732167742
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2451738346739098
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2432080249141287
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2416394231198609
@@ -9,10 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2381900619869754
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2341046545931768
 'Blackout',de,Politik,#a89216,#88e888,3,0.2323585458040696
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.22641521268875411
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2264152126887541
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2128655396039983
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2120384726484181
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.2110507925709574
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.2099333624324707
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.179444736366865
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0751038840607663
