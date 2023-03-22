@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2940142407109845
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.26196326223438365
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2619632622343836
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.259166635185024
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.248681772396129
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2472923270179488
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.23905887926398237
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2382277624970291
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2358023136935702
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.2326912831578707
