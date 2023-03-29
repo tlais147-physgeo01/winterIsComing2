@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.3239099084295589
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2644751107304437
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2493780788757252
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.24611825200895637
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.2461182520089563
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2392719499406565
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2390588792639823
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2264152126887541
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2180840317240646
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.210035292924078
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.20901371509673
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.2080676199322761
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,1,0.20806761993227607
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1979385956841901
 'Blackout',de,Politik,#a89216,#88e888,3,0.1977224842752583
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1924858271585091
