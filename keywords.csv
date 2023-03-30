@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2180840317240646
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.210035292924078
 'Blackout',de,Politik,#a89216,#88e888,3,0.2093798629976059
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.20935223298771136
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.20901371509673
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2093522329877113
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,1,0.208067619932276
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1979385956841901
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1924858271585091
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1917062569231296
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1756619590936534
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0751038840607663
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0604992330930233
