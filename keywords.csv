@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasspeicher',de,Politik,#a89216,#48e818,3,0.30865442741183646
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2651871738631664
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2392719499406565
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2390588792639823
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2343016386663317
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2236644759416148
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2187001087530674
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2180840317240646
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.21560610896725915
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2156061089672591
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.210035292924078
 'Blackout',de,Politik,#a89216,#88e888,3,0.2093798629976059
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.2093522329877113
