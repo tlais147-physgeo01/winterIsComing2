@@ -3,20 +3,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2522012370776869
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2373362242227726
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2315654444820213
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.2194983119186593
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.2180840317240646
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2156061089672591
 'Blackout',de,Politik,#a89216,#88e888,3,0.2093798629976059
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.208813174293751
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2087058781867362
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,1,0.208067619932276
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.2006193942217695
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1979385956841901
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1965464566759182
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1926121430763753
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1924858271585091
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1756619590936534
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0994643287506183
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.08478582709753997
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0847858270975399
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0622603787570885
 'COP26',de,Politik,#a89216,#18e818,1,0.0119973700703343
 'COP 26',de,Politik,#a89216,#18e818,1,0.0035104854411731
