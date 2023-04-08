@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,3,0.199413446056364
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1979385956841901
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1965464566759182
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,2,0.19545120557879822
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,2,0.1954512055787982
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1926121430763753
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1756619590936534
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0894979044380255
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0847858270975399
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0669643910344343
+'COP 26',de,Politik,#a89216,#18e818,1,0.053433957624997135
 'COP26',de,Politik,#a89216,#18e818,1,0.0104977945597841
-'COP 26',de,Politik,#a89216,#18e818,1,0.0035104854411731
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0011032855626605
