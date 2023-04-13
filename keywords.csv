@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2883336529496845
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2296223889213751
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.2156061089672591
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.21416152706946445
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2104095462736804
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.208813174293751
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2050820091859984
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1980791132909182
 'Blackout',de,Politik,#a89216,#88e888,3,0.1965612871843286
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1965464566759182
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1926121430763753
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1801814688328875
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1756619590936534
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.1695023141479094
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0847858270975399
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0618719073792691
 'COP 26',de,Politik,#a89216,#18e818,1,0.0394386176340603
-'COP26',de,Politik,#a89216,#18e818,1,0.007218785259027315
+'COP26',de,Politik,#a89216,#18e818,1,0.0072187852590273
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0011032855626605
