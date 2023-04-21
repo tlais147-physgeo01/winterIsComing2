@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1868259844174773
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.180838061235227
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1724463584114235
-'Energiepauschale',de,Politik,#a89216,#18e218,2,0.1306853803757106
+'Energiepauschale',de,Politik,#a89216,#18e218,1,0.11108285831935401
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0810263537723216
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0702671148279725
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0618719073792691
-'COP 26',de,Politik,#a89216,#18e818,1,0.02083722606370116
+'COP 26',de,Politik,#a89216,#18e818,1,0.0208372260637011
 'COP26',de,Politik,#a89216,#18e818,1,0.0057706278496472
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0007971238190221
