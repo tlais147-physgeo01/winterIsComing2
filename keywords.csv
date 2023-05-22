@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1720956092651787
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1667125449002383
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1659319701852265
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.16444129608337787
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1644412960833778
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.1134345462004922
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0991548169544217
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.08923363441125845
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0702671148279725
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.065237032528286
 'COP 26',de,Politik,#a89216,#18e818,1,0.010910282745934
