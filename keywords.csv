@@ -6,14 +6,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1912366563973405
 'Blackout',de,Politik,#a89216,#88e888,3,0.1886310155664386
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.179690584829035
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.17850969514812914
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1769790402202815
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.17541780885296
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1720956092651787
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1719890850039075
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1667125449002383
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1644412960833778
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1596472132938061
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.15659828915897184
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1565982891589718
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.1253422565431456
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0892336344112584
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0831304603763158
