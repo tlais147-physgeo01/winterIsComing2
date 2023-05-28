@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.2236567315022978
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2134855974173
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2118938942590817
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2057810911342169
-'Gasspeicher',de,Politik,#a89216,#48e818,2,0.20386573930137578
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.2038166071150028
+'Gasspeicher',de,Politik,#a89216,#48e818,2,0.2038657393013757
 'Blackout',de,Politik,#a89216,#88e888,3,0.1886310155664386
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.179690584829035
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1785096951481291
