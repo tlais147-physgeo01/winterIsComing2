@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.24099142223768286
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.2409914222376828
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2134855974173
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2057810911342169
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.179690584829035
-'Blackout',de,Politik,#a89216,#88e888,3,0.1789253968678364
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1786443239430955
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1782366884061693
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1769790402202815
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1667125449002383
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1644412960833778
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1612338104213642
+'Blackout',de,Politik,#a89216,#88e888,3,0.15703924233766095
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1565982891589718
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1452139308451897
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.1083410980616737
