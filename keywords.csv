@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2176938861613796
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2134855974173
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1850670566399262
+'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1837249924179712
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1793863619631493
-'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1782366884061693
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1644412960833778
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1599299937326938
 'Blackout',de,Politik,#a89216,#88e888,3,0.1570392423376609
