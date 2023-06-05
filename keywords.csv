@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1565982891589718
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1561991003516311
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1556873617987759
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1499837137636988
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1465499984036141
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1452139308451897
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.13243846669914394
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0938901133524226
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0847042304107775
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.082041648521225
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0771524256810784
 'COP26',de,Politik,#a89216,#18e818,1,0.0480406630508939
 'COP 26',de,Politik,#a89216,#18e818,1,0.0093824351433104
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.00018462738477127
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0001846273847712
