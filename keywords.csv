@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2479253602444946
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2281277223237673
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.21585606851672762
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2151201560006015
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1999937442442785
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1837249924179712
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1793863619631493
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1680970142888992
