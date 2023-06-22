@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1614709857819279
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1592773207830917
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1568412000129222
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1556873617987759
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.15558904833655718
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1545883941900844
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1431599222794356
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1393837447010186
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1391325933662952
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.137597097255454
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.13233524752895953
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1178446343953716
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0774548439551081
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0770527392675479
