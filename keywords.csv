@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2584790550699553
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2490540433793662
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.2393798316527329
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.224760306809462
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1766734212947114
 'Blackout',de,Politik,#a89216,#88e888,3,0.1633045447707781
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1614709857819279
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1393837447010186
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1391325933662952
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.137597097255454
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.13233524752895953
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1323352475289595
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1178446343953716
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0774548439551081
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0770527392675479
