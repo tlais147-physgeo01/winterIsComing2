@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1755792498733432
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1614709857819279
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1610159777382566
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1592773207830917
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1545883941900844
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1509234731005046
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.14463875039440863
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1446387503944086
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1431599222794356
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.14033792766562794
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1391325933662952
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1323352475289595
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1253209222510314
