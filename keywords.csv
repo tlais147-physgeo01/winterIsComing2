@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1509234731005046
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1499958286979353
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.14638174562297265
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1463817456229726
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1446387503944086
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1431599222794356
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1403379276656279
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0774548439551081
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0705310318289166
 'COP26',de,Politik,#a89216,#18e818,1,0.016203367271007
-'COP 26',de,Politik,#a89216,#18e818,1,0.0091901508139166
+'COP 26',de,Politik,#a89216,#18e818,1,0.00841168819182911
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,8.192015145588126e-05
