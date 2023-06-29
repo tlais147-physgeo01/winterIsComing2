@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1814672046650689
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1539157262102475
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.15379972176325193
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1509234731005046
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1499958286979353
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1463817456229726
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1446387503944086
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1403379276656279
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1391325933662952
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1323352475289595
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1251107825497403
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1178446343953716
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0960200683774157
