@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1823196292569854
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1791860321354289
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1782108824411209
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.17775923890680545
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1597157546534291
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1573316580656864
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1463817456229726
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1403379276656279
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1391325933662952
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1356808284987641
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.123300672417884
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1112957401672792
