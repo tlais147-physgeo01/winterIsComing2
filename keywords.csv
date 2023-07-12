@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1566693810522539
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
 'Blackout',de,Politik,#a89216,#88e888,3,0.1520057191371836
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.15168748079585187
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1516874807958518
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1403379276656279
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1356808284987641
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.1131903527785509
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0658320654547228
 'COP26',de,Politik,#a89216,#18e818,1,0.0102284206753071
 'COP 26',de,Politik,#a89216,#18e818,1,0.0074499649630547
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,3.634840640177912e-05
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,3.089614544151225e-05
