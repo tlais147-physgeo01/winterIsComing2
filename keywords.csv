@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1575973009141409
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1573316580656864
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1555890483365571
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1516874807958518
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1430071919512222
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.14298281276738312
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1424206616976018
 'Blackout',de,Politik,#a89216,#88e888,3,0.1387014408120606
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1309634870904824
