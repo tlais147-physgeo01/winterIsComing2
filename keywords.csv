@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2067915195024276
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.20214810523221893
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.2021481052322189
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1988356223386617
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1872039010860735
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1801817974593485
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1058561715552014
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0987815826319614
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0601625957227929
-'COP26',de,Politik,#a89216,#18e818,1,0.0069588239563894
+'COP26',de,Politik,#a89216,#18e818,1,0.00651506036293099
 'COP 26',de,Politik,#a89216,#18e818,1,0.0064927106858069
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,9.90459634475401e-06
