@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1744964660840136
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1721701478850464
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1630531195939913
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1558888873405038
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.154515514537579
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1513404460880706
+'Gasspeicher',de,Politik,#a89216,#48e818,3,0.15109301287579185
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1424206616976018
 'Blackout',de,Politik,#a89216,#88e888,3,0.1377804886458046
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.1336795549026828
