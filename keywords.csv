@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.21942186308057998
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2194218630805799
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1991910983074153
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1858707885382951
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1744964660840136
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0934858204061375
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0601625957227929
 'COP26',de,Politik,#a89216,#18e818,1,0.0061378613084912
-'COP 26',de,Politik,#a89216,#18e818,1,0.0061188640829358
+'COP 26',de,Politik,#a89216,#18e818,1,0.00580109447049543
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,7.156070859084772e-06
