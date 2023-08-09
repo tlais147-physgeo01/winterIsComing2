@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.20777357869243407
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.207773578692434
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1858707885382951
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1744964660840136
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.164939464338653
@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1406572419727603
 'Blackout',de,Politik,#a89216,#88e888,3,0.1377804886458046
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.1336795549026828
+'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.11779654581226928
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1082822939347579
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1042793621230788
-'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.0899786758219211
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0888227199183093
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0805689068570706
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0606349359098285
