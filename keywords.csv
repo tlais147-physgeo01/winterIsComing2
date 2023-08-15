@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1785704819619494
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1714614793532297
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.158232349114978
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1512304607629272
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1516855098303063
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1452295276841892
 'Blackout',de,Politik,#a89216,#88e888,3,0.1447920530762066
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1441617293014503
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.13570231608653732
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1357023160865373
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.1336795549026828
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1195594356768462
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1177965458122692
