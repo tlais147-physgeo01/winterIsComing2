@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2101631785802483
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.26096330906593834
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2007362335440846
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1894695467477312
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1785704819619494
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1452295276841892
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1441617293014503
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1357023160865373
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.13262088409513526
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1326208840951352
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1177965458122692
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.1136278466672803
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1051815466174304
