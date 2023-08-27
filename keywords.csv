@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2121828781055412
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1995251990081523
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1912896924730225
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.17191474444634483
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1607789852737511
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1719147444463448
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.15570201075503
+'Gasspeicher',de,Politik,#a89216,#48e818,3,0.15070426157359754
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.147526171992124
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1431793003427358
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1365814539971418
