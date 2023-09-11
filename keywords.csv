@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.3273682912403365
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.29241498664519516
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2160300543463519
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1966809021807719
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1850666111796
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1090158597947297
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0696725775664617
 'COP26',de,Politik,#a89216,#18e818,1,0.0664633344809001
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.05832939025303599
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0583293902530359
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.052683728320519
 'COP 26',de,Politik,#a89216,#18e818,1,0.0026512642236358
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,6.251129817285739e-07
