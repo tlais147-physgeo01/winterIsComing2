@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1568850657263767
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.150160942905821
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1494968332990467
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.14585041707501123
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1450452744939988
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1445464017834981
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1443680281096389
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1442799592021062
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1442086356932262
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1399141575696024
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1021596853709747
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0623745654872127
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0583293902530359
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.058154955868487804
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0581549558684878
 'COP26',de,Politik,#a89216,#18e818,1,0.0231436455027444
 'COP 26',de,Politik,#a89216,#18e818,1,0.0020141212288402
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.70337364599953e-07
