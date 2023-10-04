@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1823680110614279
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1811577317500889
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1759382086131317
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1699987345412409
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1568850657263767
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1561952443673686
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.15399965890550932
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.153204990146921
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.150160942905821
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1494968332990467
