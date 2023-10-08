@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1647970221055179
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1590695418666164
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1561952443673686
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.15587459485696403
+'Gasspeicher',de,Politik,#a89216,#48e818,3,0.155874594856964
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.153204990146921
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1519764258176375
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.150923804396398
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1494968332990467
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1462282801063115
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1442799592021062
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1442086356932262
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1399141575696024
