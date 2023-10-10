@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1361183124965617
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1358549150696829
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1278071116677015
-'Energiepauschale',de,Politik,#a89216,#18e218,1,0.1192916704266049
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.10887904333962
+'Energiepauschale',de,Politik,#a89216,#18e218,2,0.10469824986261417
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0583293902530359
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0580921411781475
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0543836474882146
