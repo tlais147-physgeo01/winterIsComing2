@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1330009641674471
 'Blackout',de,Politik,#a89216,#88e888,2,0.1300198470670332
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1278071116677015
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.11568029502049518
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1156802950204951
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.0721610929292211
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0622741398300547
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0602243933421206
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.05788418885554649
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0573711117231479
 'COP26',de,Politik,#a89216,#18e818,1,0.0083002626461278
 'COP 26',de,Politik,#a89216,#18e818,1,0.0017312216246613
