@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1442086356932262
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1358549150696829
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1330009641674471
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.13127134851175018
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1312713485117501
 'Blackout',de,Politik,#a89216,#88e888,2,0.1300198470670332
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1290672299938929
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1278071116677015
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1194794807674208
-'Energiepauschale',de,Politik,#a89216,#18e218,2,0.0721610929292211
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0628086640555848
+'Energiepauschale',de,Politik,#a89216,#18e218,1,0.06133730398983793
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0578841888555464
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0561428043408025
 'COP26',de,Politik,#a89216,#18e818,1,0.0083002626461278
