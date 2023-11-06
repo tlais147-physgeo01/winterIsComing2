@@ -3,18 +3,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1884510816301693
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1704737508473518
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1687838653135214
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.1448276634971647
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1370347564282136
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1355927431069236
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1325505921151186
 'Blackout',de,Politik,#a89216,#88e888,2,0.1300198470670332
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1284357789811834
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.12805583897258999
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1278071116677015
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1270965286332391
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1264409264763694
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.123751669585718
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1194794807674208
-'Energiepauschale',de,Politik,#a89216,#18e218,1,0.06562536492982375
+'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0656253649298237
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0581342917953206
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0514527755272144
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0485686817705405
