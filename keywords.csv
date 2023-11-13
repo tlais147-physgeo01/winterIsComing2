@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1284357789811834
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1280558389725899
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1270965286332391
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1264409264763694
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.123751669585718
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.11699271205036854
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1032625342989059
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0809369645948463
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.07087997511386693
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0708799751138669
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0577317551903501
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.04879898037467
 'COP26',de,Politik,#a89216,#18e818,1,0.0066384278850532
