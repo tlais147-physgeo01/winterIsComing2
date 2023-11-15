@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1776728285806705
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.17583529150077576
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1758352915007757
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1716618905308304
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1696803589310984
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.16051993883902443
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1533803481724698
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1442966863935646
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1355927431069236
