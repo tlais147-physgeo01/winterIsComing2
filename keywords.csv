@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1335664295754935
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1280558389725899
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1270965286332391
-'Blackout',de,Politik,#a89216,#88e888,3,0.1200145595524327
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.119464574276863
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1169927120503685
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.11573933733767916
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1157393373376791
+'Blackout',de,Politik,#a89216,#88e888,3,0.11151017016502235
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0706338934474852
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0616167530472268
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0577317551903501
