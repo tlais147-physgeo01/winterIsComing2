@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1638003820029538
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1476831058656522
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1398753504920538
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1355927431069236
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.133835552218837
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1335664295754935
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1280558389725899
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.12021229164088505
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.119464574276863
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1169927120503685
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1157393373376791
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.11298851433825322
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1129885143382532
 'Blackout',de,Politik,#a89216,#88e888,3,0.1115101701650223
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0706338934474852
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0616167530472268
