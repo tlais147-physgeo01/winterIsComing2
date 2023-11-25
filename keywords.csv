@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.120212291640885
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.119464574276863
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1169927120503685
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1157393373376791
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1129885143382532
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.11242051582793633
 'Blackout',de,Politik,#a89216,#88e888,3,0.1115101701650223
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0706338934474852
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0616167530472268
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0577317551903501
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.04879898037467
 'COP26',de,Politik,#a89216,#18e818,1,0.0077334338667969
-'COP 26',de,Politik,#a89216,#18e818,1,0.00166092299718975
+'COP 26',de,Politik,#a89216,#18e818,1,0.0016609229971897
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.4879687468394108e-08
