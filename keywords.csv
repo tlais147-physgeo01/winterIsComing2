@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1575340306370539
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.153046722828207
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1435029192583886
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.14166914426099303
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1365276458539741
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1335664295754935
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1292234958626062
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1290649154252375
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1282284616486161
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1278102784769205
