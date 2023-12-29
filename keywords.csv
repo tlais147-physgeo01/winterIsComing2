@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.195334157833876
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1911485029704784
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.17793607916401055
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1779360791640105
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1654471888303763
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1528195457940598
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1520057400382188
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1028133917973003
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0820237185475277
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0640358777872448
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0485007754540028
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.04617745913590238
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0428213041250278
 'COP 26',de,Politik,#a89216,#18e818,1,0.0172624486905561
 'COP26',de,Politik,#a89216,#18e818,1,0.016764511755076
