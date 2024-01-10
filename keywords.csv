@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1393945284704053
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1321271505831418
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1317790898872006
+'Blackout',de,Politik,#a89216,#88e888,3,0.12472104316045846
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.119909459644734
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1150875557549779
-'Blackout',de,Politik,#a89216,#88e888,3,0.1140825566593629
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0883077244017621
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0570358886350758
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.052490596030143714
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0524905960301437
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0372981985062736
 'COP 26',de,Politik,#a89216,#18e818,1,0.0156524371789267
 'COP26',de,Politik,#a89216,#18e818,1,0.0127067379305981
