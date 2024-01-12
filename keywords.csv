@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1849058736770015
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1827614356740456
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.175238371653408
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.172417124230598
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.170072512910916
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1572628585059024
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.15607414514146284
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1536228393593069
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1513225097211189
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1511531082666104
