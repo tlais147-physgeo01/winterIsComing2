@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2090408771619608
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2057629257774842
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1849058736770015
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.17678704824700586
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1767870482470058
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.175238371653408
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1572628585059024
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1560741451414628
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0570358886350758
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0524905960301437
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0372981985062736
-'COP 26',de,Politik,#a89216,#18e818,1,0.0156524371789267
+'COP 26',de,Politik,#a89216,#18e818,1,0.014504691602087696
 'COP26',de,Politik,#a89216,#18e818,1,0.0114007872410083
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,2.4900151660487744e-09
