@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1539496222280538
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1536228393593069
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1470713806629824
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1467829391355722
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1433585819016
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1393945284704053
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.11620691139660785
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1162069113966078
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1159653147889329
 'Blackout',de,Politik,#a89216,#88e888,2,0.1060136216863896
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0784394346075457
