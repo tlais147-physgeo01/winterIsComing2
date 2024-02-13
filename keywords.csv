@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1395597735855573
 'Blackout',de,Politik,#a89216,#88e888,2,0.1385575642475031
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1357501642264757
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1297383371451085
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1255450885686169
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.12350001676698884
+'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1235000167669888
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.11977799111879676
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1169133350066127
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1162069113966078
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0784394346075457
