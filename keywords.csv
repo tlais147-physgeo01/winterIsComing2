@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.20604746140003471
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2060474614000347
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1744141406400693
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1655721122471966
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1608516973297766
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1589002819900152
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.15023471995557164
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1433585819016
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1427725205182695
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1395597735855573
