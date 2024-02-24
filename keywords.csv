@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2031255403260186
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.16637595691180024
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1663759569118002
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1644704387804176
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.162295358634968
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1597055996389453
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0448090060881669
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0240634969201652
 'COP26',de,Politik,#a89216,#18e818,1,0.0169442878472511
-'COP 26',de,Politik,#a89216,#18e818,1,0.0081500355855026
+'COP 26',de,Politik,#a89216,#18e818,1,0.007977635247677209
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.902202526152167e-10
