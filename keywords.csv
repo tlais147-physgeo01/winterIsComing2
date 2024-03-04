@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1413763343073197
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1409175859935089
 'Blackout',de,Politik,#a89216,#88e888,2,0.1385575642475031
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.13855488876734015
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1385548887673401
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.127430891949991
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1235000167669888
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0441216091650317
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0213540623821404
 'COP26',de,Politik,#a89216,#18e818,1,0.0102791488061889
-'COP 26',de,Politik,#a89216,#18e818,1,0.0075565207164467
+'COP 26',de,Politik,#a89216,#18e818,1,0.0070231026089796955
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,3.0105651263731965e-10
