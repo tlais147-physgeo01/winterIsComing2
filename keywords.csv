@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1798211682491847
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1722276372110197
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.157173292667459
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.15173733180646404
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.151737331806464
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1481568638270956
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1432380286819461
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1413763343073197
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1409175859935089
 'Blackout',de,Politik,#a89216,#88e888,2,0.1385575642475031
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.13855488876734015
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.127430891949991
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1235000167669888
