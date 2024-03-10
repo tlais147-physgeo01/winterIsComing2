@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1474592308217552
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.147450543423402
 'Blackout',de,Politik,#a89216,#88e888,2,0.1385575642475031
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.13543229879848578
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1354322987984857
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1312497139251087
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1272970849344673
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1169133350066127
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1108225718818962
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0644291827539517
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0573542226509391
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.05824900379875278
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0431066245832747
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0190510430248193
 'COP26',de,Politik,#a89216,#18e818,1,0.0071928952731006
