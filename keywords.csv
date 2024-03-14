@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1272970849344673
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1272748499976936
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1236781398765562
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1235000167669888
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1169133350066127
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1108225718818962
+'Gasspeicher',de,Politik,#a89216,#48e818,2,0.10497553925194048
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0644291827539517
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0582490037987527
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0431066245832747
