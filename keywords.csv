@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Politik,#a89216,#88e888,3,0.16454924923892417
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1636080723988865
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1570635461323544
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1569118246048091
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1534623165186178
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1518860523336953
+'Blackout',de,Politik,#a89216,#88e888,3,0.14936458139854003
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1453130428723472
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1436911704912602
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
