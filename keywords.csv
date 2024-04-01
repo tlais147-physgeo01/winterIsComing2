@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1451054207490646
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1440358065390535
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1436911704912602
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.1346952600181605
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.13802074244400786
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1280742954667183
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1272970849344673
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1069258267199027
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0547306451716516
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.053152158366725
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.041567459591713915
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0415674595917139
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0169434615710964
 'COP 26',de,Politik,#a89216,#18e818,1,0.005797814460713
 'COP26',de,Politik,#a89216,#18e818,1,0.0030419463615588
