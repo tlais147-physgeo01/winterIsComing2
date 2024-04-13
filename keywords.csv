@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2285872550813077
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1917613372131221
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1750846588877881
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.16364607572319084
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1636460757231908
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.14686538894925233
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1404320144670244
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1402162484964466
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1350529555821684
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1347951905690601
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
