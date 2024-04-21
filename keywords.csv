@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1730850332408655
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1681405165915807
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1628927941023316
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1606756938410261
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.1551694034012358
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1431659085157322
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1350529555821684
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1347951905690601
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.133975188228868
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.13237020580586678
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.1323702058058667
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1280742954667183
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.126446738372339
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1157986641348
