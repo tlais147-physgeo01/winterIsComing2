@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1313206203700971
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1289656667474311
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1272477173022005
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.12697145761735365
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1269714576173536
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.126446738372339
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1261710209924815
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1219072293066275
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP 26',de,Politik,#a89216,#18e818,1,0.0317087520293676
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0094300701087349
 'COP26',de,Politik,#a89216,#18e818,1,0.0027483483217921
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0004932688473853
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.000419278520277505
