@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2132102410906285
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.19764344119162533
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1976434411916253
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.15574206522077
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1497421241372034
 'Blackout',de,Politik,#a89216,#88e888,3,0.1332847131290361
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1141658299349867
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1082860142012876
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.104970268401311
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0636211884955784
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.07721212340305983
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0579211054930224
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0467418069947395
 'COP 26',de,Politik,#a89216,#18e818,1,0.0185413468871549
