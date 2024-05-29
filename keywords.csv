@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2170509138709422
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.2118718963553005
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1920705593404123
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1691501822558363
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.15869285563174657
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1365162347129296
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1357602509470296
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1351688995342426
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1078152017774779
 'Blackout',de,Politik,#a89216,#88e888,3,0.1038055310776419
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.0925712928785379
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.08644078608159293
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0864407860815929
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0772121234030598
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0579211054930224
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0475513604510205
