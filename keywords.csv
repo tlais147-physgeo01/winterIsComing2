@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.172761384984805
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.17907572450981155
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1575319988203775
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1562100359677425
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1395398872869845
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0772121234030598
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0579211054930224
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0475513604510205
-'COP 26',de,Politik,#a89216,#18e818,1,0.009657378844642659
+'COP 26',de,Politik,#a89216,#18e818,1,0.0096573788446426
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0081655745924246
 'COP26',de,Politik,#a89216,#18e818,1,0.0009617390424701
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0001860361068641
