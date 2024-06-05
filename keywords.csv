@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1575319988203775
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1468220346634902
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.14224641697481516
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1395398872869845
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1422464169748151
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1339889969413387
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1326506532848459
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.126118327187059
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1255530190514447
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1228861189750189
