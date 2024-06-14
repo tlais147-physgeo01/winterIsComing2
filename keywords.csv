@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1038055310776419
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.0836366189467572
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0829931477148085
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.06344085023149496
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0634408502314949
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0632803867414359
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0453712213833674
-'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0069407384035609
 'COP 26',de,Politik,#a89216,#18e818,1,0.006852679957966
+'Energiepauschale',de,Politik,#a89216,#18e218,1,0.005899627643026765
 'COP26',de,Politik,#a89216,#18e818,1,0.0009723842081845
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,9.711201050863e-05
