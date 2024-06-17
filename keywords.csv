@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1728192110684681
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.15923806921474115
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1592380692147411
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1413082450813662
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1333064748779402
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1290991808880225
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.123389693536577
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1204070318127158
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1167982770980827
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1151487206045315
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.11332041962427938
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.112753895292119
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1121518531090001
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1109626258954263
