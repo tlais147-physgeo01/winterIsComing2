@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1728192110684681
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.16094376349910697
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1592380692147411
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1432480715009794
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1319034672826128
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1151487206045315
 'Blackout',de,Politik,#a89216,#88e888,3,0.1038055310776419
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1012733316806374
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.09983002014265009
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.09983002014265
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.0980915309983011
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.0964194320111123
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0829931477148085
