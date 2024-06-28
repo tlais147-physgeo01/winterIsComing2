@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Politik,#a89216,#88e888,3,0.1717694138552232
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1609379713642527
+'Blackout',de,Politik,#a89216,#88e888,3,0.15095520177693972
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1484646771915962
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1481823003083032
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1403193988325299
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.055214828580774
 'COP 26',de,Politik,#a89216,#18e818,1,0.0073573862031179
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0058996276430267
-'COP26',de,Politik,#a89216,#18e818,1,0.00070555128935122
+'COP26',de,Politik,#a89216,#18e818,1,0.0007055512893512
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,8.25452089323355e-05
