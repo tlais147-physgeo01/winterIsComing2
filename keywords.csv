@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1323620676639909
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1287312820699385
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1142657748437646
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1137606546558145
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.11073883054835142
 'Blackout',de,Politik,#a89216,#88e888,3,0.1074377095992176
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.10249828652949704
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.102498286529497
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1020922187838604
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.0906644428248587
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.089752726191493
