@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1074377095992176
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1039793559660986
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.102498286529497
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.10020221958294806
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0994463854445872
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.0906644428248587
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.0836724930121503
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0796331640291751
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0624623967072039
