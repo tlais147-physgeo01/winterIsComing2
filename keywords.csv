@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1555230976399479
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.150481065128123
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1401713505124771
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1332062708348825
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1290268253744814
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.12272463975510467
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1220613222056376
 'Blackout',de,Politik,#a89216,#88e888,3,0.1218956054320622
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1198216457179075
