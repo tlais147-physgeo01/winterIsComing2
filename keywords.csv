@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,2,0.1036121646172528
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.091708108996733
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0636946787610789
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0591516422365664
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.05180358972206451
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.05523104090108144
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0518035897220645
 'COP26',de,Politik,#a89216,#18e818,1,0.043962184180622
 'COP 26',de,Politik,#a89216,#18e818,1,0.0083937164260049
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0053147134965726
