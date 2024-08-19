@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1082648296569727
 'Blackout',de,Politik,#a89216,#88e888,2,0.1036121646172528
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.091708108996733
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0636946787610789
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.057891841946917065
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0552310409010814
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0518035897220645
 'COP26',de,Politik,#a89216,#18e818,1,0.0382679465535287
