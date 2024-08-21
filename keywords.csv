@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1198216457179075
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1184346962484793
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1172564078733769
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.114296798608901
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1082648296569727
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1049167865973505
 'Blackout',de,Politik,#a89216,#88e888,2,0.1036121646172528
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.10060311881756585
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0977153524081304
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.091708108996733
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0580765703546639
