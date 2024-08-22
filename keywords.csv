@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2296967282141845
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1463137700950085
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1446197911613416
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1201331855865812
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1198216457179075
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1185149324048812
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1184346962484793
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1172564078733769
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.11161197729404856
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1082648296569727
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1049167865973505
 'Blackout',de,Politik,#a89216,#88e888,2,0.1036121646172528
