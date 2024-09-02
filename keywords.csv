@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1213482104489452
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1198216457179075
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1184346962484793
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1131907337222036
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1116119772940485
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1106131338447904
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1102364320896035
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1057083732093276
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0977153524081304
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0810961708827341
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.0798077125705731
