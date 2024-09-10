@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1238800440948174
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.123030054954919
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1184346962484793
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.11298462540974664
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1122902859125266
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1116119772940485
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1106131338447904
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1057083732093276
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0977153524081304
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.0864241343213507
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0784514097957785
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.06655179717201398
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0665517971720139
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0552310409010814
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0441357267328318
 'COP26',de,Politik,#a89216,#18e818,1,0.0122797666662047
