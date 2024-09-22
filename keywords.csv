@@ -10,13 +10,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1116119772940485
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1106131338447904
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1081362415629563
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.10432465144592024
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1043246514459202
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0977153524081304
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.0864241343213507
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0716574883264117
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.068834852297689
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.068203741163831
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0436351179170347
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.04204165022947949
 'COP 26',de,Politik,#a89216,#18e818,1,0.0079216745626242
 'COP26',de,Politik,#a89216,#18e818,1,0.0075413117038828
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0046675214720867
