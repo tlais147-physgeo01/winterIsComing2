@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1116119772940485
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1081362415629563
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1043246514459202
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.10406009707418956
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1040600970741895
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0977153524081304
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.0864241343213507
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0716574883264117
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP 26',de,Politik,#a89216,#18e818,1,0.0079216745626242
 'COP26',de,Politik,#a89216,#18e818,1,0.0075413117038828
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0046675214720867
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,7.410384059580258e-07
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,6.298826450643219e-07
