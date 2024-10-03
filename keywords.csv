@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.30270757664055686
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.3027075766405568
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1711467968426304
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1678909539646802
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1541141348787064
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0420416502294794
 'COP 26',de,Politik,#a89216,#18e818,1,0.0076335133782305
 'COP26',de,Politik,#a89216,#18e818,1,0.0064101149483003
-'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0046675214720867
+'Energiepauschale',de,Politik,#a89216,#18e218,1,0.003967393251273694
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,3.868266794001267e-07
