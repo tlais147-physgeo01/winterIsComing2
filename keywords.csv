@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1268730381032596
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1193724185490478
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1180064988817594
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.11158401069487926
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1115840106948792
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1072779073356108
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0840657182592681
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0768811340244247
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0543732217548181
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.050418648491595386
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0440825858362533
 'COP 26',de,Politik,#a89216,#18e818,1,0.0074579076657715
 'COP26',de,Politik,#a89216,#18e818,1,0.0064101149483003
