@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1711467968426304
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1564180312597851
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1558142438350707
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.15552594091642583
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1555259409164258
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1494288223107946
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1473730104292637
 'Blackout',de,Politik,#a89216,#88e888,3,0.1425979803580411
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP 26',de,Politik,#a89216,#18e818,1,0.0074579076657715
 'COP26',de,Politik,#a89216,#18e818,1,0.0064101149483003
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0033722842635825
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,2.375599344866029e-07
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,2.0192594431361245e-07
