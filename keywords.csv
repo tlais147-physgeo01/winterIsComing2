@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1494288223107946
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1422037525012378
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1419547368052646
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.13007737529174412
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1268730381032596
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1258078730705011
 'Blackout',de,Politik,#a89216,#88e888,3,0.1251285465229703
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1193724185490478
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1180064988817594
