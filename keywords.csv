@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2491873597002859
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2350386039270612
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.21405244339919
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1837144771554736
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1571802983717524
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0848339950709347
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.058541854489723
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.040425182768023
-'COP 26',de,Politik,#a89216,#18e818,1,0.027283695426337656
+'COP 26',de,Politik,#a89216,#18e818,1,0.0272836954263376
 'COP26',de,Politik,#a89216,#18e818,1,0.0036633972866987
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0024364753804383
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,6.473283127649974e-08
