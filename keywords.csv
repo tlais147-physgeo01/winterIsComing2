@@ -6,15 +6,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1493140884145001
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1388459316963405
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1306039423140474
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1305888599276638
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1280530903937887
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1265463563325088
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1254646009256886
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1234157585079964
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.12049708048396879
 'Blackout',de,Politik,#a89216,#88e888,3,0.1118378911355732
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1049926911821442
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0867535882605029
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.07045434993875024
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0704543499387502
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.058541854489723
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.040425182768023
 'COP 26',de,Politik,#a89216,#18e818,1,0.0272836954263376
