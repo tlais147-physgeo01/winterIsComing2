@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1743734916231066
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1740332963623702
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1684117655866705
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.16778704663140695
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1677870466314069
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1667122355632831
 'Blackout',de,Politik,#a89216,#88e888,3,0.1660921742288611
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1556705600909282
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.146399810509719
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.146016931240917
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1278322478377857
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.127438615471084
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.10865832566211786
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1034001570042135
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0656549981737405
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0553407157205876
