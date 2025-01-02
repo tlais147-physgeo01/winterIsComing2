@@ -10,14 +10,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.146399810509719
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.146016931240917
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.143663043746219
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.14261993463669587
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1426199346366958
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.127438615471084
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1086583256621178
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1034001570042135
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0565979814305274
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0551480269205366
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0519922333624994
-'COP 26',de,Politik,#a89216,#18e818,1,0.0115814351483353
+'COP 26',de,Politik,#a89216,#18e818,1,0.010294264876085004
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0029370218765598
 'COP26',de,Politik,#a89216,#18e818,1,0.0002312095436736
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,6.652571678084375e-09
