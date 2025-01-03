@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2481013207486699
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2245241236608766
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.18991134790322678
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1899113479032267
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1743734916231066
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1667122355632831
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1665215505443782
@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.127438615471084
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1086583256621178
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1034001570042135
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.062162846518819745
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0565979814305274
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0551480269205366
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0519922333624994
 'COP 26',de,Politik,#a89216,#18e818,1,0.010294264876085
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0029370218765598
