@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1667122355632831
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1665215505443782
 'Blackout',de,Politik,#a89216,#88e888,3,0.1660921742288611
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.16120961075144297
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1556705600909282
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.146399810509719
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.143663043746219
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.142702510191143
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1426199346366958
