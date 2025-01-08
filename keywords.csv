@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1556705600909282
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1444304818442897
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.143663043746219
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.13821950772189104
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.127438615471084
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1086583256621178
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1034001570042135
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0621628465188197
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0565979814305274
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0446703581262448
 'COP 26',de,Politik,#a89216,#18e818,1,0.0095002001446722
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0026464835950758
-'COP26',de,Politik,#a89216,#18e818,1,0.000167048895304125
+'COP26',de,Politik,#a89216,#18e818,1,0.0001670488953041
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,5.654685926371719e-09
