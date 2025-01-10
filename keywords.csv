@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1612096107514429
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1560112366324992
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1556705600909282
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.143663043746219
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.14525482536610432
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.136073830199971
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1034001570042135
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0621628465188197
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.042922429407308
 'COP 26',de,Politik,#a89216,#18e818,1,0.0088252451229713
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0026464835950758
-'COP26',de,Politik,#a89216,#18e818,1,0.000141991561008485
+'COP26',de,Politik,#a89216,#18e818,1,0.0001419915610084
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.806483037415961e-09
