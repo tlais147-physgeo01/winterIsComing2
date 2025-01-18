@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1897250378588265
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1788188953756629
 'Blackout',de,Politik,#a89216,#88e888,3,0.1714636782050552
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.16468281614453964
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1646828161445396
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1644745370477399
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1640882069153471
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1602437233793704
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1586978832851625
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1556705600909282
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1537771670505284
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.152150502836949
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1489367198832972
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1470793407298743
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.136073830199971
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.097404412999036
