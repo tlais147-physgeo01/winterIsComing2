@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1931664199694819
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.1897250378588265
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1887905828874952
 'Blackout',de,Politik,#a89216,#88e888,3,0.1714636782050552
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.16591773718000252
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1646828161445396
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1644745370477399
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1640882069153471
