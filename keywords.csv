@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1320928680847739
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1251593502154299
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0968540251400897
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0640256247911494
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0621515333068573
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.059373881072476986
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0528390195409967
 'COP 26',de,Politik,#a89216,#18e818,1,0.0082515333545256
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0023995260558144
