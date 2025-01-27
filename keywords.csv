@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1522626247917928
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1508374548239122
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1470793407298743
-'Blackout',de,Politik,#a89216,#88e888,3,0.14574310548273203
+'Blackout',de,Politik,#a89216,#88e888,3,0.145743105482732
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1388295619568612
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1251593502154299
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0968540251400897
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0623264478562832
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.05792962567784071
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0528390195409967
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0520590418248645
 'COP 26',de,Politik,#a89216,#18e818,1,0.0065167883486446
