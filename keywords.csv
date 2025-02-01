@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1879910443595492
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1756290617418348
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1571037288002966
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1558898893275981
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1537771670505284
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1535941192356942
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1532979519232377
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1508374548239122
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1470793407298743
 'Blackout',de,Politik,#a89216,#88e888,3,0.1424697582966858
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1388295619568612
