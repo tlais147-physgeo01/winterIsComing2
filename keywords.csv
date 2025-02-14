@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1507901030173545
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1488930577711157
 'Blackout',de,Politik,#a89216,#88e888,3,0.1424697582966858
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.12697523026383217
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1269752302638321
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1251593502154299
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1009366600054398
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0678385158546311
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0425677328895908
 'COP 26',de,Politik,#a89216,#18e818,1,0.0047083795818957
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0023995260558144
-'COP26',de,Politik,#a89216,#18e818,1,1.459242580099785e-05
+'COP26',de,Politik,#a89216,#18e818,1,1.2403561930848171e-05
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,5.81130203954163e-10
