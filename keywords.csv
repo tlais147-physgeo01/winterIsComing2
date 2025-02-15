@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2120149495182431
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1982560865883202
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.178579772613584
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1724217000145392
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1588094220260141
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1576820062255038
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.15605719955781286
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1535941192356942
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1510442896171784
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1507901030173545
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1251593502154299
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1009366600054398
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0678385158546311
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.059609450391097316
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0596094503910973
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0425677328895908
 'COP 26',de,Politik,#a89216,#18e818,1,0.0047083795818957
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0023995260558144
