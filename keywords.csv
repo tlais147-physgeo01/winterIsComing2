@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.25944875783785903
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.259448757837859
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1982560865883202
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1866155874275033
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1846779756932436
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0425677328895908
 'COP 26',de,Politik,#a89216,#18e818,1,0.0040021226446113
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0020395971474422
-'COP26',de,Politik,#a89216,#18e818,1,8.961573495037801e-06
+'COP26',de,Politik,#a89216,#18e818,1,7.617337470782131e-06
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,3.0335359852784764e-10
