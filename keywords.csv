@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2254858691621801
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2466173537878531
 'Blackout',de,Politik,#a89216,#88e888,3,0.221699547912711
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.2044829102224687
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1963021213273449
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.17883571992943137
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.1788357199294313
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1664724684767716
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1603974048374785
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1581484469039301
