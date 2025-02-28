@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.2044829102224687
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1989375524526329
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1946304808555159
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.168563011384584
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1581484469039301
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1576820062255038
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1573219737678055
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1569619969400166
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1560571995578128
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.15579968099841135
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1557996809984113
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1510052727507104
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1251593502154299
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1146824764272433
