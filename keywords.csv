@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1507426498358915
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.146891201783435
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1465533089363778
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.14441664928094244
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144133100320556
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.143813003337158
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1426831483519109
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1419536111312076
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1373500641926291
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1318925135344727
