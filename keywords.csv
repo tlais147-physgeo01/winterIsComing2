@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1444166492809424
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144133100320556
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1419536111312076
-'Gasspeicher',de,Politik,#a89216,#48e818,2,0.13846918272034994
+'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1384691827203499
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1373500641926291
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.13511012720655113
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1340757721413756
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1318925135344727
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.1317377223820388
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1135956458759019
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0933481659423289
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0567953954272202
