@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1796508651931881
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1671772854968429
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1462337118953391
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.14588985507061922
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1458898550706192
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144133100320556
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1384691827203499
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1373500641926291
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0317264624910232
 'COP 26',de,Politik,#a89216,#18e818,1,0.0025922339736928
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0010646824584468
-'COP26',de,Politik,#a89216,#18e818,1,6.654065663908764e-07
+'COP26',de,Politik,#a89216,#18e818,1,5.655955814322449e-07
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,2.6499216710954724e-11
