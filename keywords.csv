@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1340757721413756
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1264830139155225
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0933481659423289
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.05420035734537107
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0532286661131371
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0472454744170141
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0317264624910232
 'COP 26',de,Politik,#a89216,#18e818,1,0.0025922339736928
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0010646824584468
