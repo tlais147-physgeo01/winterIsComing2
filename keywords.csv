@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1913739014890495
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1750147568592658
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.1652493085801138
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1576558604142098
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1458898550706192
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.14541299229309673
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1451556556182485
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144133100320556
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1398857777455529
