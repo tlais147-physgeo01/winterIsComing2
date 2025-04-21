@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1913739014890495
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1753236377157147
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1674556769667395
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1576558604142098
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1471418999918445
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1454129922930967
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1451556556182485
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.124325811982161
 'Blackout',de,Politik,#a89216,#88e888,3,0.0988004134259034
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.0933481659423289
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.05754182056319323
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0575418205631932
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.054200357345371
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0320827573997642
 'COP 26',de,Politik,#a89216,#18e818,1,0.0023534138776388
