@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1337960146564927
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1332179231752263
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1300241699930678
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.12833356727551123
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1283335672755112
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1264830139155225
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1248021534491322
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.124325811982161
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0320827573997642
 'COP 26',de,Politik,#a89216,#18e818,1,0.0023534138776388
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0010646824584468
-'COP26',de,Politik,#a89216,#18e818,1,2.509577642080134e-07
+'COP26',de,Politik,#a89216,#18e818,1,2.133140995768114e-07
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.1757843231739386e-11
