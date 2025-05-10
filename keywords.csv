@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blackout',de,Politik,#a89216,#88e888,3,0.2476559359139866
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.224286512548559
+'Blackout',de,Politik,#a89216,#88e888,3,0.22000834007234316
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1817103974686553
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1663692403696567
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.152444334028459
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP 26',de,Politik,#a89216,#18e818,1,0.0024946452226048
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0006538481147935
 'COP26',de,Politik,#a89216,#18e818,1,1.1135129319221793e-07
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,7.22078547469195e-12
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,7.220785474691949e-12
