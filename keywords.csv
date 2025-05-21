@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.30801977828141086
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.3080197782814108
+'Blackout',de,Politik,#a89216,#88e888,3,0.1944171740760358
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1863391920249699
-'Blackout',de,Politik,#a89216,#88e888,3,0.1801149090734111
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1521405395595521
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.146995512653124
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1463242793677174
