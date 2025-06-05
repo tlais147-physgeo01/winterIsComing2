@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1752993103047393
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1553427534040681
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1511202218405732
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1339307614871538
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.132454620059629
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.13244420590044437
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.1299427995670454
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1248468095444633
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1244923356466866
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1243422918036007
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.11998730281828339
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1199873028182833
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1173097731506107
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1167384608145388
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1090843721841845
