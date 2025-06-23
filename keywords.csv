@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1307114929002344
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1274062070487249
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1151916225785151
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.11431259315340708
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.114312593153407
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1105429069828991
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1019898823955408
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0797395525675317
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.08002933968240195
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0528324202255743
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0504223989536263
 'COP26',de,Politik,#a89216,#18e818,1,0.0008639685998579
