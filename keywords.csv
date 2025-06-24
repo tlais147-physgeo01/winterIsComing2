@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2512283489708376
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.26859195662521196
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1609156881116714
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1552878893731474
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1458095854724823
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.13948609045339563
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1394860904533956
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1392223613565568
 'Blackout',de,Politik,#a89216,#88e888,3,0.1378902979947506
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,2,0.135198654051815
