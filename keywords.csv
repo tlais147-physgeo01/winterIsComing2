@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1834423621970645
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.155107893971255
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1492912852743189
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1394860904533956
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1387978966924719
 'Blackout',de,Politik,#a89216,#88e888,3,0.1378902979947506
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1371518955217499
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1331073259301795
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1318866999512578
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1314280391732343
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0504223989536263
 'COP 26',de,Politik,#a89216,#18e818,1,0.0008736977875816
 'COP26',de,Politik,#a89216,#18e818,1,0.0008639685998579
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.00052567815896075
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0005256781589607
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0003413128024727
