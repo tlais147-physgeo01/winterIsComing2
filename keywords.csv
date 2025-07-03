@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1745211015038684
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1729437221886011
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1712891101483674
 'Blackout',de,Politik,#a89216,#88e888,3,0.1606047288693891
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.1578471958237427
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1371518955217499
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.13639753202862562
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1363975320286256
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1318866999512578
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1314280391732343
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.130616484964956
