@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1792400261330382
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1722709989443505
 'Blackout',de,Politik,#a89216,#88e888,3,0.1606047288693891
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1597418927170213
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1482199805410903
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.14164209003620967
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.14537894835492265
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1416420900362096
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1363975320286256
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1314280391732343
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1312422048936455
