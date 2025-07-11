@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.180570626566988
 'Blackout',de,Politik,#a89216,#88e888,3,0.1505567586298898
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.14912805664174494
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.1491280566417449
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1453789483549226
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1437679138238886
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1373534904317376
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0876447575341716
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0523569986560369
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0499302526985578
-'COP 26',de,Politik,#a89216,#18e818,1,0.0014638299015276
+'COP 26',de,Politik,#a89216,#18e818,1,0.00169430041629846
 'COP26',de,Politik,#a89216,#18e818,1,0.0013024118913877
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0003228320993716
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0002901158821017
