@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1299832213152408
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1282792403942316
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1258185763284201
-'Gasspeicher',de,Politik,#a89216,#48e818,1,0.11675090186697697
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1121177653781006
+'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1167509018669769
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.111210303271305
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1065676292951445
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.10025235057138551
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0876447575341716
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0523569986560369
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0499302526985578
