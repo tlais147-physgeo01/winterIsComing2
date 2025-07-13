@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1314280391732343
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1312422048936455
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1307627076340047
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1299832213152408
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1290769017543183
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1282792403942316
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1258185763284201
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1167509018669769
