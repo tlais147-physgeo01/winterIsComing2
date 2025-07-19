@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1720944765258041
-'Blackout',de,Politik,#a89216,#88e888,3,0.16702956420100445
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1649906524653205
+'Blackout',de,Politik,#a89216,#88e888,3,0.14692715457085373
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1316988562957598
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1312422048936455
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1307627076340047
