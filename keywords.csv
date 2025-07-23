@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2828809852243758
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.32732444925890125
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1581665677509547
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1415263541904526
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.13739727421844328
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1373972742184432
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1312422048936455
 'Blackout',de,Politik,#a89216,#88e888,3,0.1298401063852256
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1291923894463879
