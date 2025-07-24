@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.117288339771737
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1146447928513958
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1142154797669475
-'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1037343009511025
+'Gasspeicher',de,Politik,#a89216,#48e818,1,0.08817460580843713
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0876447575341716
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.0861393330832805
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0560801318698956
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.045472401881955136
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0454724018819551
 'COP 26',de,Politik,#a89216,#18e818,1,0.0025077428896003
 'COP26',de,Politik,#a89216,#18e818,1,0.0009409925915275
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0002465984997864
