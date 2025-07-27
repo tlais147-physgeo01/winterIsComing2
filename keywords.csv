@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1312422048936455
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1299043516174402
 'Blackout',de,Politik,#a89216,#88e888,3,0.1298401063852256
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.1247615255291781
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1221197258961642
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1218523450493825
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1209922339700661
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.117288339771737
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1147733110294297
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1146447928513958
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.1142154797669475
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0885405279949549
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0881746058084371
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.0861393330832805
