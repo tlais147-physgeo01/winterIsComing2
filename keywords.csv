@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2690341347713743
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1700543542909738
+'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.14034339511015695
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1399241062674948
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1312422048936455
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1299043516174402
 'Blackout',de,Politik,#a89216,#88e888,3,0.1298401063852256
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1247615255291781
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1221197258961642
-'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1218523450493825
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1209922339700661
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.117288339771737
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1147733110294297
