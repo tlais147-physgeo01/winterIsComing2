@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1528808619535706
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1467137652629315
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1433593403836366
+'Blackout',de,Politik,#a89216,#88e888,3,0.13616992178950849
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.132780524650581
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1299043516174402
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.12918011988161957
-'Blackout',de,Politik,#a89216,#88e888,3,0.1222886994315073
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.1291801198816195
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1221197258961642
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1209897182805345
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1204729023073213
