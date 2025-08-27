@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1222360994831298
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1214371133943123
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1210248331114159
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1166173997076861
 'Atomkraft',de,Politik,#a89216,#04d624,2,0.1128084102663064
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1123396540280806
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.10409742475153319
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0885405279949549
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0584128421738268
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0490356463407967
