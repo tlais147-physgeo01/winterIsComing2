@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1766030797399737
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.17780763550625037
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1649326154887148
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1607241171307325
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.1545866743930215
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1271741400101491
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1234476749608426
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1214371133943123
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.11429786594474307
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.114297865944743
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1025470751297122
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0822548649751146
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0805568994510871
