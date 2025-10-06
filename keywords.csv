@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1234476749608426
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1234391655046115
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.1224863380707811
+'Gasspeicher',de,Politik,#a89216,#48e818,2,0.11983992813942498
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1131363168468135
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.10397557071303523
-'Gasspeicher',de,Politik,#a89216,#48e818,1,0.0993588357421227
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1039755707130352
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0785980640328012
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0423722084275204
 'COP 26',de,Politik,#a89216,#18e818,1,0.0055324771003117
