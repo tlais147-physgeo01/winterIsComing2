@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2027464448897728
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1485492051744515
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1468754610137764
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.14799736504352812
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1326635868952636
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1290646361143954
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1282958278321561
@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0721391297290186
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0409681621633923
 'COP 26',de,Politik,#a89216,#18e818,1,0.003781253745779
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.00120814180382972
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0012081418038297
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0002071313914784
 'COP26',de,Politik,#a89216,#18e818,1,6.103415009447609e-06
