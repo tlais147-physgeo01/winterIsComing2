@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1282958278321561
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1250779275924085
 'Blackout',de,Politik,#a89216,#88e888,3,0.1245316125845945
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.12411601602161428
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1241160160216142
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1234864683287481
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1147570029561551
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122067791854302
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1098820387167162
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.1041143773601639
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0753615393605749
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0397750978388834
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.04330656770850543
 'COP 26',de,Politik,#a89216,#18e818,1,0.0046746500813252
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0012081418038297
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0002071313914784
