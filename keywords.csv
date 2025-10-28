@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1326635868952636
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1307695702869988
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1300113347373867
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.12863182680019025
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1282958278321561
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1250779275924085
 'Blackout',de,Politik,#a89216,#88e888,3,0.1245316125845945
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1241160160216142
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1234864683287481
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1147570029561551
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122067791854302
