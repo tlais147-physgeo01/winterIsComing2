@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1274733147156684
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1216728012782775
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1165335310910269
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.11613493114909547
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1161349311490954
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122067791854302
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1067891762766113
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,2,0.0934483307561393
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0934730852336275
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0636105149380153
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0558313535430417
 'COP 26',de,Politik,#a89216,#18e818,1,0.0234092371700563
