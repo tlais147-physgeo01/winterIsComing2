@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1286318268001902
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1274733147156684
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1216728012782775
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.12053974561051613
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1205397456105161
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1165335310910269
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1161349311490954
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122067791854302
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0934730852336275
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0636105149380153
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0558313535430417
-'COP 26',de,Politik,#a89216,#18e818,1,0.0234092371700563
+'COP 26',de,Politik,#a89216,#18e818,1,0.021247986594547852
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0012081418038297
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0003260766827566
 'COP26',de,Politik,#a89216,#18e818,1,3.7482597426770127e-06
