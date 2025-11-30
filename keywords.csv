@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1216728012782775
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1165335310910269
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1139047930169377
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1025514209842005
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0948761610131139
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.09214729783657043
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.064751480950095
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.05417423250484764
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0541742325048476
 'COP 26',de,Politik,#a89216,#18e818,1,0.0123041225909848
 'COP26',de,Politik,#a89216,#18e818,1,0.00237780220694
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0005360589366124
