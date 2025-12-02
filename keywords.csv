@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1688556425496174
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1585624157214048
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1551214138643973
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.14438838661811604
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1448247933404101
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144388386618116
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1325276065843516
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1324708659619798
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1286299862459211
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1285041398275001
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1274733147156684
