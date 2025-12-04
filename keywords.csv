@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1860122606001294
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.166667994348993
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.16150864575222476
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1585624157214048
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1551214138643973
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.14675131639299174
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144388386618116
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1403685177910092
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1325276065843516
