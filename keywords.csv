@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.2165926664641929
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.21632883376729123
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1833681319040749
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1685190417897542
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.164983608889391
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP 26',de,Politik,#a89216,#18e818,1,0.0098498245719864
 'COP26',de,Politik,#a89216,#18e818,1,0.003105600844514
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0002798261152799
-'Energiepauschale',de,Politik,#a89216,#18e218,1,0.00018954211541283498
+'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0001895421154128
