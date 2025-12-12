@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2009555238364083
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.18614132557868604
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.186141325578686
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1685190417897542
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1602630388330077
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1562463019828216
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.15596413986721655
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1504124863526713
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1478542841721859
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1476787407407668
