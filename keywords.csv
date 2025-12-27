@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1562006133722457
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.16501046863913613
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1560628493935575
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1511283308661477
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1464703021605093
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0133361354230172
 'COP 26',de,Politik,#a89216,#18e818,1,0.0056197115373553
 'COP26',de,Politik,#a89216,#18e818,1,0.0029038626101612
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.00014607098108927
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0001460709810892
