@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1679526710705384
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.16590651359177583
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1603978633462461
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.155794180166342
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1450287592370688
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1398385433631941
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.13657333821432122
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1365733382143212
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1364841744984087
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1364019948067536
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1360312702355908
