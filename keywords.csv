@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1728819120565457
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1666255445130816
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.164587263393282
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1582546911756608
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1567279297002521
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.14817190785846784
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1531068711356753
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.1481719078584678
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1473480000945063
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1450287592370688
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1443807722513769
