@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2174606238586945
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1874991647135378
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1857623752661416
-'Blackout',de,Politik,#a89216,#88e888,3,0.1839113503463158
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1678376514959247
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.16459087171514483
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1645908717151448
+'Blackout',de,Politik,#a89216,#88e888,3,0.16128628779436843
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1549488436863976
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1529267580718612
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1409824485324704
