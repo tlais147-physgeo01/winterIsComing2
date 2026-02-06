@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.191368512340483
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1855977226665467
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1789177384309194
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.17550865782643
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.17523184584809967
 'Blackout',de,Politik,#a89216,#88e888,3,0.1745987104633072
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1601978393401623
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1531223675429002
