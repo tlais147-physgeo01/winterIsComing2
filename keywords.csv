@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2127377492665647
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.191368512340483
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1772045189708846
-'Blackout',de,Politik,#a89216,#88e888,3,0.1745987104633072
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1601978393401623
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.15879577369792
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1564718048528688
+'Blackout',de,Politik,#a89216,#88e888,3,0.15336898389381112
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1531223675429002
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1450911580723801
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1428148276332248
