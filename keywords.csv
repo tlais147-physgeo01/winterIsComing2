@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.2176245936947617
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.191368512340483
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.18203079434822886
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1820307943482288
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1772045189708846
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1641057069967471
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1596360191922776
@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1533689838938111
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1531223675429002
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1450911580723801
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1384262898889634
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1383305121732271
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1364112575651892
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.13170867049652799
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1280970750803303
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1273871146001457
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.1055891137785662
