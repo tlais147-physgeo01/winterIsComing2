@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2388930794528222
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1659134702789532
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.16382267857529664
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1638226785752966
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1622766013303808
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.159871005949358
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1583938824114651
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0669167498171864
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0046077038693498
 'COP 26',de,Politik,#a89216,#18e818,1,0.0022954968572021
-'COP26',de,Politik,#a89216,#18e818,1,3.608170563712315e-05
+'COP26',de,Politik,#a89216,#18e818,1,3.066944979155468e-05
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,6.660756155376273e-06
