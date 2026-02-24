@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2254495005417607
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1999673416174527
-'Heizkosten',de,Armut,#679e2c,#181888,3,0.18631217004974532
+'Heizkosten',de,Armut,#679e2c,#181888,3,0.1863121700497453
 'Blackout',de,Politik,#a89216,#88e888,3,0.1719536776814602
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.16711008951014145
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1457628922793819
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1454055196024088
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1441806771947759
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1426449689424124
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1401275496902811
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1373702084524321
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1364112575651892
