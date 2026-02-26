@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2254495005417607
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1999673416174527
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.20220626264756203
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1769540481786471
 'Blackout',de,Politik,#a89216,#88e888,3,0.1719536776814602
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1671100895101414
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1273871146001457
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.105448397705014
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0800020694917698
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.057119045315570396
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0571190453155703
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0042165782889473
 'COP 26',de,Politik,#a89216,#18e818,1,0.0022954968572021
 'COP26',de,Politik,#a89216,#18e818,1,1.883487585323852e-05
