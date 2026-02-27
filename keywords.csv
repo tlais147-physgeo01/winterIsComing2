@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1671100895101414
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1644543550427591
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1561417507102019
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1520381122367389
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1454055196024088
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1441806771947759
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1401275496902811
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1364112575651892
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1356647692824225
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1353530208209309
