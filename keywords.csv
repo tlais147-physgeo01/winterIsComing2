@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.248895136462877
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2438876482661727
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1954065517635421
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1840599756416662
 'Blackout',de,Politik,#a89216,#88e888,3,0.1774494431515006
@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1617033655409326
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1576221002455386
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1520381122367389
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.14262970733711083
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1426297073371108
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.14070251742659
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1365989247064686
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1291073107951565
