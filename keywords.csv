@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1291073107951565
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1285667116620474
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1245579248126015
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.12185545532198917
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1159505289304108
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.105448397705014
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0774998986134588
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0504294872404994
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0027060910713154
 'COP 26',de,Politik,#a89216,#18e818,1,0.0014172846474299
 'COP26',de,Politik,#a89216,#18e818,1,1.1566968133370103e-05
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.8149929419356473e-06
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.8149929419356475e-06
