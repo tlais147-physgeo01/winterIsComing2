@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.143791113727771
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1426297073371108
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1291073107951565
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.1218554553219891
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.11761959111459983
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1159505289304108
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0708276438214399
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.05690775824533358
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0569077582453335
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.002300177410618
 'COP 26',de,Politik,#a89216,#18e818,1,0.0014172846474299
 'COP26',de,Politik,#a89216,#18e818,1,1.1566968133370103e-05
