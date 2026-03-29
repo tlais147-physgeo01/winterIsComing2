@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.3335280581484089
 'Kerosin',de,Politik,#a89216,#18e722,3,0.2917324370094935
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.28845264442614754
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2699029797237533
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2596978003156528
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2313873595080066
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.1070950072848437
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0693496719475086
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0669597281448971
-'COP 26',de,Politik,#a89216,#18e818,1,0.00260551249820162
+'COP 26',de,Politik,#a89216,#18e818,1,0.0026055124982016
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0014125964522957
 'COP26',de,Politik,#a89216,#18e818,1,4.362476428750345e-06
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.3113324005485051e-06
