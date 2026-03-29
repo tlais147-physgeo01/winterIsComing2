@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.2917324370094935
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.28845264442614754
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.2884526444261475
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2699029797237533
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2596978003156528
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2313873595080066
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2259173477888918
 'Blackout',de,Politik,#a89216,#88e888,3,0.1919147987572944
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1660057672194099
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1608444922010901
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1576376323556759
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1548848799955069
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1520381122367389
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1476889624038469
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.143791113727771
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1374246819031557
