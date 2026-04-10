@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1866052570597323
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1772382467004157
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1739530779961808
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1733330144092257
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.172546564015939
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1683546654715262
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.16183814724784185
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1608444922010901
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1576376323556759
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1518479008026343
