@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1739530779961808
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.172546564015939
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1683546654715262
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.16183814724784185
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1618381472478418
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1608444922010901
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1576376323556759
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1518479008026343
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'COP 26',de,Politik,#a89216,#18e818,1,0.0040440871810143
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0014125964522957
 'COP26',de,Politik,#a89216,#18e818,1,2.2772399612853595e-06
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,5.818451525767495e-07
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.94568379690237e-07
