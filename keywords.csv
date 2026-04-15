@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.2691641995222975
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2601484823828749
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.21031648001562514
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.2103164800156251
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1764609712967536
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1763076776003307
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1743354219788473
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1683546654715262
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1646993887862624
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1480432015932336
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.14443223499061217
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1385691252276937
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1381607736294945
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1352780653274532
