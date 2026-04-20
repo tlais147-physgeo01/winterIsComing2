@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1691469691756254
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1683546654715262
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1646993887862624
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1594800906022405
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
+'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.13645867701190442
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1363730150799033
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1352780653274532
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1343738462214339
