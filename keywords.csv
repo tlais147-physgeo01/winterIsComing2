@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kerosin',de,Politik,#a89216,#18e722,3,0.26484241909822775
+'Kerosin',de,Politik,#a89216,#18e722,3,0.2648424190982277
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2069773564591108
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1722231777410502
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.170570541288808
@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144070101518291
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1387422209828806
-'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1364586770119044
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1299608669088268
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1291329700025045
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1179749526985207
+'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.11599055046011873
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0932308808147136
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0684454657008368
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0602170889231625
