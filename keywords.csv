@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1387422209828806
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1253926428911009
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1154196318725027
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1126212912564993
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1097639395021288
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1052534447937425
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.07582581861085279
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0758258186108527
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0684454657008368
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0602170889231625
 'COP 26',de,Politik,#a89216,#18e818,1,0.0029707384176755
