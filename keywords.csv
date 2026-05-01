@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.2648424190982277
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.20870533380197148
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.2087053338019714
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1998773722364124
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1722231777410502
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1714824300421178
@@ -21,5 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0602170889231625
 'COP 26',de,Politik,#a89216,#18e818,1,0.0029707384176755
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0014125964522957
-'COP26',de,Politik,#a89216,#18e818,1,7.300309561065672e-07
+'COP26',de,Politik,#a89216,#18e818,1,6.205263126905821e-07
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,2.581677852506769e-07
