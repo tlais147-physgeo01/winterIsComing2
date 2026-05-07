@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.20535220065079726
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.2035470438236689
 'Kerosin',de,Politik,#a89216,#18e722,3,0.191849443832482
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1813004475021166
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1748538814009505
+'Gasspeicher',de,Politik,#a89216,#48e818,2,0.17455010555317763
 'Blackout',de,Politik,#a89216,#88e888,3,0.1678619566461744
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1619915689642211
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1618514724675273
