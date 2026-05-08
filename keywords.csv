@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1678619566461744
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1619915689642211
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1618514724675273
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1552573200812546
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1490525066224541
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.144070101518291
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.14146599161452095
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1344320278354485
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1253926428911009
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1166957507279909
