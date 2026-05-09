@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1907598449848824
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1825138917955731
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1813004475021166
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.1748538814009505
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.1808567764635352
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1745501055531776
 'Blackout',de,Politik,#a89216,#88e888,3,0.1678619566461744
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1619915689642211
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0684890899917956
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0684454657008368
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0606817351301426
-'COP 26',de,Politik,#a89216,#18e818,1,0.001474749953157775
+'COP 26',de,Politik,#a89216,#18e818,1,0.0014747499531577
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0014125964522957
 'COP26',de,Politik,#a89216,#18e818,1,6.205263126905821e-07
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.347651974495112e-07
