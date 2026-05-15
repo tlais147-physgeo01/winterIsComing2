@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1618514724675273
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1501209951632106
-'Gasspeicher',de,Politik,#a89216,#48e818,3,0.15011625288473537
+'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1501162528847353
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1490525066224541
 'Blackout',de,Politik,#a89216,#88e888,3,0.1458961086314064
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.13822199507839275
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1253926428911009
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1251980128723427
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1183605471510503
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1126212912564993
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1124664226090675
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.0768007669844513
