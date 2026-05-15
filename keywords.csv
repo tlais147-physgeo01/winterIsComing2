@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2039683310539224
-'Kerosin',de,Politik,#a89216,#18e722,3,0.1988195650697593
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1922324248166135
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1913493849940049
+'Kerosin',de,Politik,#a89216,#18e722,3,0.17850318485474995
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1727240151585122
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1635434536601312
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1618514724675273
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1183605471510503
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1126212912564993
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1124664226090675
-'Energiepauschale',de,Politik,#a89216,#18e218,2,0.07680076698445135
+'Energiepauschale',de,Politik,#a89216,#18e218,2,0.0768007669844513
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0689482443799805
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0684890899917956
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0684454657008368
