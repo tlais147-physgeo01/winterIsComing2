@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1501162528847353
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1490525066224541
 'Blackout',de,Politik,#a89216,#88e888,3,0.1458961086314064
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.13822199507839275
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1382219950783927
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1253926428911009
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1251980128723427
@@ -21,5 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0684890899917956
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0684454657008368
 'COP 26',de,Politik,#a89216,#18e818,1,0.001253537460184
-'COP26',de,Politik,#a89216,#18e818,1,0.0004783654679883
+'COP26',de,Politik,#a89216,#18e818,1,0.0005566256477900549
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,8.276267688368107e-08
