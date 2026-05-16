@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1785031848547499
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1635434536601312
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1618514724675273
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.15528337361600172
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1501209951632106
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1501162528847353
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1490525066224541
 'Blackout',de,Politik,#a89216,#88e888,3,0.1458961086314064
