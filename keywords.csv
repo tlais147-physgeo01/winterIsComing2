@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1507604224618356
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1501162528847353
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1490525066224541
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.14853834755857354
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1485383475585735
 'Blackout',de,Politik,#a89216,#88e888,3,0.1471453105185136
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1457676412102869
+'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.13880780873016302
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
-'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1253926428911009
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1251980128723427
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1246177974530015
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1171981398012815
