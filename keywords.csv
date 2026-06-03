@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1467886942896066
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1457676412102869
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.138807808730163
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.13667569783505126
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1366756978350512
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.135754849970242
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1315095866587981
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0489383081248343
 'COP 26',de,Politik,#a89216,#18e818,1,0.0009837439805012
 'COP26',de,Politik,#a89216,#18e818,1,0.0008328438628716
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,5.082662894119064e-08
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.320263460001204e-08
