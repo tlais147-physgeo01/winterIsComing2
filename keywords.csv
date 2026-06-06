@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1501162528847353
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1467886942896066
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1457676412102869
-'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.138807808730163
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1366756978350512
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.13580606592867647
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1358060659286764
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1315095866587981
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1280699134609092
+'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.12748336696609308
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1203434674747057
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1097948966589335
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0984685611614941
