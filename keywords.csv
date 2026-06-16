@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1358060659286764
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1353129350885498
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.13150325924732809
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.131503259247328
 'Blackout',de,Politik,#a89216,#88e888,3,0.1299404748074094
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1280699134609092
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.127599399952025
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0793001328419662
 'Energiepauschale',de,Politik,#a89216,#18e218,2,0.0768007669844513
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0668055210908251
-'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0629948106853271
+'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.05849914408252803
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0445191056201927
 'COP 26',de,Politik,#a89216,#18e818,1,0.0016168441045917
 'COP26',de,Politik,#a89216,#18e818,1,0.0006198560747859
