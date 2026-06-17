@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1950481094209962
 'Blackout',de,Politik,#a89216,#88e888,3,0.1608556440408434
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1556527601250604
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1530724149189561
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1457676412102869
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1385190638846475
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1366756978350512
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1358060659286764
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1353129350885498
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1350664126811127
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1319609508360019
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.131503259247328
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1280699134609092
