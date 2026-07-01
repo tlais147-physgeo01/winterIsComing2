@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1882686900616765
-'Blackout',de,Politik,#a89216,#88e888,3,0.18727109597289088
+'Blackout',de,Politik,#a89216,#88e888,3,0.1872710959728908
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1831864996211163
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1555190993219323
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1549525255242935
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.141693393969097
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1388587535241615
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1385190638846475
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1381482023633572
