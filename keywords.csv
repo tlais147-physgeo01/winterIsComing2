@@ -12,14 +12,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.126091292669659
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1203434674747057
 'Grippe',de,Gesundheit,#9e3215,#1414b8,2,0.1193735604880517
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.11927056936994528
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1192705693699452
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1190771420088536
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1119085929156712
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1073952062510025
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0617368379272013
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0605207269405355
-'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0487340906845898
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0471652710243261
+'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.04622733708190133
 'COP 26',de,Politik,#a89216,#18e818,1,0.0015225580766223
 'COP26',de,Politik,#a89216,#18e818,1,0.0006581968619278
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.3849774806150653e-08
