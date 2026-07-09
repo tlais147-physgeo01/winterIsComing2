@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1949613714561116
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1885792383655341
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.16539201115665775
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1632848215964871
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1558422543019503
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1543533983195612
 'Blackout',de,Politik,#a89216,#88e888,3,0.1537687240086696
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.137170186905359
