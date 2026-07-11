@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1849729357645528
 'Blackout',de,Politik,#a89216,#88e888,3,0.1811099108619146
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1543533983195612
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.15236900669608855
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1523690066960885
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.151042323357014
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1497617017356733
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.137170186905359
@@ -21,5 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0471652710243261
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0448453852615589
 'COP 26',de,Politik,#a89216,#18e818,1,0.0012319174241556
-'COP26',de,Politik,#a89216,#18e818,1,0.0007530749827428
+'COP26',de,Politik,#a89216,#18e818,1,0.00079012873533138
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,1.0006462297443849e-08
