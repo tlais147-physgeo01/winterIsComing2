@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1401612148534619
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1336492955634483
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.126091292669659
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.12493535396445343
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1249353539644534
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1190771420088536
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1138135064417728
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1117809173534998
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0461098466469307
 'COP 26',de,Politik,#a89216,#18e818,1,0.0012319174241556
 'COP26',de,Politik,#a89216,#18e818,1,0.0007901287353313
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,8.505492952827272e-09
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,7.2296690099031804e-09
