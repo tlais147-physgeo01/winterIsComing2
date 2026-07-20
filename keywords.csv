@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1522953418281656
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1496110950248061
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1471604970670595
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1460893365665183
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1406160575792325
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1401612148534619
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.13822091017244964
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1336492955634483
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.126091292669659
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1249353539644534
