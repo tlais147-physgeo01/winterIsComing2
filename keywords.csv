@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2061133606831921
 'Blackout',de,Politik,#a89216,#88e888,3,0.1859766193799913
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1543506062540238
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1522953418281656
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1503105789529033
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1471604970670595
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1406160575792325
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1401612148534619
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1382209101724496
+'Atomkraft',de,Politik,#a89216,#04d624,2,0.13119887031592023
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.126091292669659
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1249353539644534
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1190771420088536
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1073952062510025
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1032289964526173
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0609414774449097
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.056874545294031506
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0568745452940315
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0471652710243261
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.044146504649891
 'COP 26',de,Politik,#a89216,#18e818,1,0.0012319174241556
