@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1812136996548108
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1755785803430792
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1504217608499242
-'Kerosin',de,Politik,#a89216,#18e722,3,0.1471604970670595
+'Kerosin',de,Politik,#a89216,#18e722,3,0.1436744661433642
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1421046656681355
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1412841839562038
 'Gasspeicher',de,Politik,#a89216,#48e818,1,0.1401612148534619
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1397575447685321
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1370785427720104
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.12668404137910094
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1266840413791009
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1249353539644534
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1138135064417728
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1128941267132312
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0471652710243261
 'COP 26',de,Politik,#a89216,#18e818,1,0.0011424648756094
 'COP26',de,Politik,#a89216,#18e818,1,0.0007901287353313
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.4399204807067904e-09
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.43992048070679e-09
