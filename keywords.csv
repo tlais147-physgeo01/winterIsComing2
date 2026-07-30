@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1270749912218595
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1266840413791009
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1249353539644534
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1138135064417728
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1244218882027796
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1117809173534998
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1100055817971556
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1073952062510025
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0471652710243261
 'COP 26',de,Politik,#a89216,#18e818,1,0.0011424648756094
 'COP26',de,Politik,#a89216,#18e818,1,0.0006716094250316
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.43992048070679e-09
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,4.4399204807067904e-09
