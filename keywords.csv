@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.145330539911148
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1435517879538117
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1421276142386709
+'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1272380970232021
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1270749912218595
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1266840413791009
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1244218882027796
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1213177363562088
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.11226838440271292
-'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1117809173534998
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122683844027129
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1110191091488744
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1017865460756338
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0983896809346517
