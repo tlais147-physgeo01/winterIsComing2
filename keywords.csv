@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1299277255497835
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1272380970232021
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1268565668336985
-'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1244218882027796
+'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1243476086087263
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1213177363562088
 'Gasspeicher',de,Politik,#a89216,#48e818,2,0.1181784029390662
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122683844027129
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1084121768674523
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1072936966778493
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1056223559015847
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.09248841851939119
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0924884185193911
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0612984853736277
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0505240756021014
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0502521482249377
