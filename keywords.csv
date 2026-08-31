@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.204213827172915
+'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2376399421878868
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1814131217060552
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1706639013385942
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1672725633691771
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0502521482249377
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0209274813189956
 'COP 26',de,Politik,#a89216,#18e818,1,0.0051639295756597
-'COP26',de,Politik,#a89216,#18e818,1,0.00018300720484781
+'COP26',de,Politik,#a89216,#18e818,1,0.0001830072048478
