@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.2376399421878868
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.21472170161798226
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1814131217060552
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.1706639013385942
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1672725633691771
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1505321232938829
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1449229042879036
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.144456077897336
 'Blackout',de,Politik,#a89216,#88e888,3,0.1404411767458117
