@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1111289068086437
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1084121768674523
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1072936966778493
-'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1048971471388948
+'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.09866532006806057
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0924884185193911
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.061601912113038
-'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.05221131053665158
+'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0522113105366515
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0509144697893677
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0209274813189956
 'COP 26',de,Politik,#a89216,#18e818,1,0.0051639295756597
