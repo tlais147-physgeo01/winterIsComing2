@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122683844027129
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1111683274491789
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1111289068086437
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1084121768674523
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,2,0.1072936966778493
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.10619644942824355
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0986653200680605
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0924884185193911
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.061601912113038
