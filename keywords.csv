@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2011408390688395
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1942933406726697
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1900465664231193
-'Atomkraft',de,Politik,#a89216,#04d624,3,0.1594250674019766
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.14805594171731595
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.1611408237202515
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1480559417173159
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1463185968265362
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.144456077897336
 'Blackout',de,Politik,#a89216,#88e888,3,0.1281291241988488
