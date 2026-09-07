@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1461506921761719
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.144456077897336
 'Blackout',de,Politik,#a89216,#88e888,3,0.1281291241988488
-'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.12704078883218878
+'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1270407888321887
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1243476086087263
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1183830949340056
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122683844027129
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0459467759228181
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0209274813189956
 'COP 26',de,Politik,#a89216,#18e818,1,0.0051639295756597
-'COP26',de,Politik,#a89216,#18e818,1,0.0001322227055025
+'COP26',de,Politik,#a89216,#18e818,1,0.00011238929967712499
