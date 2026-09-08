@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Armut,#679e2c,#181888,3,0.1111683274491789
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1111289068086437
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0986653200680605
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.07876517074148244
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0787651707414824
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0573149552960823
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0522113105366515
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0459467759228181
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0209274813189956
 'COP 26',de,Politik,#a89216,#18e818,1,0.0051639295756597
-'COP26',de,Politik,#a89216,#18e818,1,0.0001123892996771
+'COP26',de,Politik,#a89216,#18e818,1,9.5530904725535e-05
