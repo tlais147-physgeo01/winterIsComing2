@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1900465664231193
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1579758530450947
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1536643024680983
-'Sanierung',de,Politik,#a89216,#08ea48,3,0.15047329394000833
+'Sanierung',de,Politik,#a89216,#08ea48,3,0.1504732939400083
 'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1480559417173159
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1463185968265362
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1461506921761719
-'Atomkraft',de,Politik,#a89216,#04d624,2,0.1369706751622137
+'Atomkraft',de,Politik,#a89216,#04d624,3,0.13112084647408853
 'Blackout',de,Politik,#a89216,#88e888,3,0.1281291241988488
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1270407888321887
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1243476086087263
