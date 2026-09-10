@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2253492268386054
-'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.2051013029063674
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1900465664231193
+'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.17938242247041228
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.1579758530450947
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1536643024680983
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1504732939400083
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1161036945029752
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1122683844027129
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1111289068086437
-'Heizkosten',de,Armut,#679e2c,#181888,2,0.09449406833180207
+'Heizkosten',de,Armut,#679e2c,#181888,2,0.094494068331802
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0879184620578514
 'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0787651707414824
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0573149552960823
