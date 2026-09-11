@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blackout',de,Politik,#a89216,#88e888,3,0.1281291241988488
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.1270407888321887
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1243476086087263
-'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.11858964492412415
+'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1185896449241241
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1161036945029752
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1111289068086437
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.094494068331802
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.0879184620578514
-'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.0787651707414824
+'Eneuerbare Energien',de,Politik,#a89216,#18e722,1,0.06695039513026003
 'Ältere Generation',de,Gesundheit,#9e3215,#4646e5,3,0.0573149552960823
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0522113105366515
 'öffentliche Gebäude',de,Politik,#a89216,#00e622,3,0.0459467759228181
