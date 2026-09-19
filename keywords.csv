@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2203844345562059
-'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.19603411808725937
+'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1960341180872593
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1772373784693834
 'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1623291383497461
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1483784210122331
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ältere Mensch',de,Gesundheit,#9e3215,#4646e5,3,0.0522113105366515
 'Energiepauschale',de,Politik,#a89216,#18e218,1,0.0209274813189956
 'COP 26',de,Politik,#a89216,#18e818,1,0.004841050118414
-'COP26',de,Politik,#a89216,#18e818,1,8.120126901670474e-05
+'COP26',de,Politik,#a89216,#18e818,1,6.902107866419903e-05
