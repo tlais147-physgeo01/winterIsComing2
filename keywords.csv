@@ -2,17 +2,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Politik,#a89216,#48e818,3,0.2336019527130478
 'Kinder',de,Gesundheit,#9e3215,#4848e9,3,0.1916700805911463
 'Kohle',de,Fossile Energie,#4287f5,#e41818,3,0.1788699716413562
+'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.15537243503017728
 'Schwangere',de,Gesundheit,#9e3215,#2626e6,3,0.1442308526970774
 'Gas',de,Fossile Energie,#4287f5,#e81818,3,0.144008497256899
 'Schimmel',de,Gesundheit,#9e3215,#1818f6,3,0.1385150781887275
 'Sanierung',de,Politik,#a89216,#08ea48,3,0.1374065743944616
 'Ältere',de,Gesundheit,#9e3215,#4646e5,3,0.1348927757076796
-'Kälte',de,Gesundheit,#9e3215,#1818e8,3,0.1341811396076952
 'Blackout',de,Politik,#a89216,#88e888,3,0.1280333969759746
 'Kerosin',de,Politik,#a89216,#18e722,3,0.1279710814293571
 'Geschlecht',de,Gesundheit,#9e3215,#1838d9,3,0.126576779143724
 'Heizkosten',de,Armut,#679e2c,#181888,2,0.1132460680820316
-'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.11207213096403777
+'Obdachlosigkeit',de,Armut,#679e2c,#186818,3,0.1120721309640377
 'Grippe',de,Gesundheit,#9e3215,#1414b8,3,0.1111289068086437
 'Atomkraft',de,Politik,#a89216,#04d624,3,0.1034891753275289
 'Wärmepumpe',de,Politik,#a89216,#18e722,3,0.1026695776981676
